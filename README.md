@@ -2,31 +2,47 @@
 This project needs to be run in linux.
 
 
+
+
 After cloning the repo 
 change directory to webprojectfolder within the reqsaddedwebproj project folder
-rm -rf venvi (you need to recreate it idk why)
+
+Type source venviv/bin/activate
+if you see (venviv) sh4-$ ./PWD/
+then you can just cd to webproject and type python manage.py runserver and the the website should work
+you just have to click on the link in the terminal.
+
+
+
+If source venviv/bin/activate doesn't work or python manage.py runserver doesn't work
+Then for some reason you have to create the virtualenv yourself on your computer.
+Instructions for create virutalenv yourself: 
+
+rm -rf venviv
 To create the virtualenv -
-virtualenv venv -p python3
+virtualenv venviv -p python3
 
 To activate the virtualenv - 
-sh$- source venv/bin/activate
+sh$- source venviv/bin/activate
 
 
 To add necessary requirments -
 and then do pip install requirment==#.#.#
 for each requirment in requirments.txt with the corresponding version
-
+(Ignore the one that says python)
 
 To run the project locally -
 FROM PWD as ./webprojectfolder
 sh$- cd webproject
 sh$- python manage.py runserver
 
+Then hold CTRL and click the link that is generated in the terminal
+
 
 For after you've seen the project and want to exit the virutalenv -
 sh$- deactivate
 
-Then hold CTRL and click the link that is generated in the terminal
+
 
 Features -
 1. Products
@@ -90,7 +106,7 @@ Features -
       but the way django abstracts you from the database through the models/views/template files makes it difficult 
       to write complex queries or to communicate with the RDS explicitly.
 
-      The Filter button in Products uses subqueries with one being queried after the other (if the user uses both the filter by price field and the filter by name field)
+      The Filter button in Products uses subqueries with one being queried after the other (if the user uses both the filter by       price field and the filter by name field)
       Getting the current user and the current users purchase history from over 3000 tuples required subqueries and a join.
 
 
