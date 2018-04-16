@@ -2,7 +2,8 @@
 This project needs to be run in linux.
 
 To clone the project type
-git clone
+
+git clone https://github.com/BMcKiernan/reqsaddedwebproj.git
 
 
 
