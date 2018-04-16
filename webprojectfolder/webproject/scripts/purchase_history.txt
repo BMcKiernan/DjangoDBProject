@@ -1,0 +1,2538 @@
+Cappuccino Milk Tea,2012-1-20,kfEc66OIqS6t
+Papaya Milk Tea,2017-12-2,UvmWAjW6d
+Peppermine Tea,2014-1-22,ggXaoeUtK5
+Salt Cheese Green Tea,2010-5-14,v71SGMLNSh
+Salt Cheese Black Tea,2015-11-10,OBdNYSL6
+Mango Smoothie,2015-2-10,HCxOFnhzAy
+Banana Mlik Tea,2015-3-26,E6mjRmXxsfm
+Cappuccino Milk Tea,2011-12-30,e8hHEs9V373X
+Papaya Milk Tea,2017-2-13,rm0Q7Te1r
+Red Bean Milk Tea,2015-5-14,qHOpZTjWsvbq
+Taro Milk Tea,2018-1-10,T1NjF65QMl
+Watermelon Milk Tea,2018-2-2,2FK7Gkzs
+Honeydew Milk Tea,2016-5-28,u7dQqjVza
+Banana Pancake,2018-3-4,dlsXVO23Tpq3
+Special Mango Juice Sago,2011-9-17,h1IIMEGK
+Crispy Popcorn Chicken,2017-1-5,6WhmbTlS
+Fired Squid Ball,2014-7-10,POxMOrFGTu
+Potsticker,2011-10-16,UwfWrpf6q
+Taiwanese Sausage,2011-6-28,ZbxFy2boBo
+Green Tea,2016-1-13,BUL6XqxJWj
+Jasmine Mlik Tea,2010-8-26,IoKHnRjn0pk
+Thai Tea,2018-1-6,f6Ris5mPr
+Mango Green Tea,2011-11-28,F9Ru0Xau9C
+Strawberry Green Tea,2018-1-19,s2uqdAmB
+Peach Green Tea,2015-8-24,WgP1KA7J
+Lychee Green Tea,2017-3-22,VSCBBV3I
+Lemon Green Tea,2012-7-19,3wATN0Ct
+Strawberry Smoothie,2011-4-29,LnR7Xxi5a
+Avocado Smoothie,2017-5-13,ZUTXUQjl
+Banana Smoothie,2017-8-11,wHh3j5Cbvc
+Taro Smoothie,2016-1-12,a5eg3k9I6D52
+Matcha Smoothie,2016-2-15,77ZqSHf4cLyt
+Ice Cream Mlik Tea,2017-4-9,SYcX7Nux0Hs
+Peppermint Jasmine Mlik Tea,2011-1-21,ciOvILcGs
+Banana Mlik Tea,2017-8-18,gtc4mKCxyoQ
+Cappuccino Milk Tea,2012-9-22,nUvsaUgfU0kJ
+Papaya Milk Tea,2011-10-29,Vqf9rD4D9
+Red Bean Milk Tea,2010-9-30,ZrliCuBQB
+Taro Milk Tea,2013-6-6,ouuAM7k0h84
+Watermelon Milk Tea,2014-4-2,qeGUbMO3P3
+Honeydew Milk Tea,2014-12-16,9pjzsa5BBrs
+match Milk Tea,2016-10-11,qxmbJBXMjrO
+Pinky,2013-10-6,IPlrghCLk
+Thai Tea,2012-10-21,aH6xI025T
+Mango Green Tea,2012-11-8,gocJOrXwU
+Strawberry Green Tea,2013-2-28,4JU4wtjWvD
+Peach Green Tea,2016-8-24,MJPHEBBR
+Lychee Green Tea,2010-11-10,ODwfk48LG5uo
+Lemon Green Tea,2013-7-7,kNEnxhhW
+Strawberry Smoothie,2011-3-14,cm8U6Wl5D
+Avocado Smoothie,2016-6-4,SSUZv3BfffBt
+Banana Smoothie,2011-6-3,n15kKo5abp
+Thai Tea,2012-11-15,KCAflTmK
+Mango Green Tea,2015-11-19,qLa9wyjfd
+Strawberry Green Tea,2011-4-1,TTHYqKDDh
+Peach Green Tea,2016-5-27,B8iYCSrA
+Lychee Green Tea,2011-2-13,G9XjVvb94
+Lemon Green Tea,2012-2-3,yUwQbld3Vh
+Strawberry Smoothie,2013-11-26,TLigkRUC5
+Avocado Smoothie,2012-10-13,fFU0ve1tSV
+Banana Smoothie,2016-9-4,6LjCo5CO
+Taro Smoothie,2013-7-12,URF3XVz6Eh
+Matcha Smoothie,2015-7-21,WBm6ST432pE
+Ice Cream Mlik Tea,2010-6-18,ynA1VbFXgUHy
+Peppermint Jasmine Mlik Tea,2015-7-29,MF7x44rFIt
+Banana Mlik Tea,2017-11-17,BLkp6tvAlt
+Cappuccino Milk Tea,2013-4-27,rV0c2MQ53v2
+Papaya Milk Tea,2010-6-2,vB2quxKEFQ
+Mango Smoothie,2016-5-4,xwpipl5i
+Banana Mlik Tea,2014-5-26,fnls237c
+Cappuccino Milk Tea,2014-2-27,zxeJPMyLv
+Papaya Milk Tea,2014-8-13,MHzxv5ZYH6
+Red Bean Milk Tea,2017-4-10,KyG8pgqqM
+Taro Milk Tea,2011-4-7,345z4oocexu
+Watermelon Milk Tea,2017-4-7,7HFe2fqCYT
+Honeydew Milk Tea,2016-4-3,IvLhxckcv6kt
+Banana Pancake,2011-11-12,hl80hDtQf
+Special Mango Juice Sago,2013-1-23,Yw33NZGB
+Crispy Popcorn Chicken,2011-6-13,swXvtr1s
+Fired Squid Ball,2010-5-6,wyKZUt2n
+Potsticker,2013-5-21,oCoZC1COyS
+Taiwanese Sausage,2016-7-17,2B6nDA0tp8fg
+Green Tea,2018-2-4,N6jPGIlYlCH6
+Jasmine Mlik Tea,2016-3-8,5Sx5Witei3
+Thai Tea,2013-1-14,zhv48yME7
+Mango Green Tea,2012-4-22,0etgVVCA4B
+Strawberry Green Tea,2012-12-19,R3DwVxkcq
+Peach Green Tea,2017-4-14,RJBAPWZV
+Lychee Green Tea,2011-10-20,IYQEvXJF
+Lemon Green Tea,2010-4-29,sGxo9Tglud
+Green Tea,2010-12-11,6PrQE9zaPzb4
+Jasmine Mlik Tea,2016-4-22,aeBy03fGg
+Thai Tea,2016-1-28,DcKCGI7t
+Mango Green Tea,2015-3-1,CSl8BFJLn
+Strawberry Green Tea,2016-10-19,7S7P3GMZ
+Peach Green Tea,2017-1-25,YCkxDfsw7eZM
+Lychee Green Tea,2017-5-2,FV6fh8wK
+Lemon Green Tea,2015-8-2,JZILJnl60ys
+Watermelon Green Tea,2012-6-22,kfEc66OIqS6t
+Passion Green Tea,2018-3-18,UvmWAjW6d
+Vanilla Green Tea,2014-7-22,ggXaoeUtK5
+Peppermine Tea,2013-10-22,v71SGMLNSh
+Salt Cheese Green Tea,2010-12-6,OBdNYSL6
+Salt Cheese Black Tea,2018-1-30,HCxOFnhzAy
+Mango Smoothie,2012-10-12,E6mjRmXxsfm
+Strawberry Smoothie,2014-8-22,e8hHEs9V373X
+Avocado Smoothie,2010-5-7,rm0Q7Te1r
+Banana Smoothie,2011-6-30,qHOpZTjWsvbq
+Taro Smoothie,2018-3-17,T1NjF65QMl
+Matcha Smoothie,2012-3-3,2FK7Gkzs
+Ice Cream Mlik Tea,2014-8-25,u7dQqjVza
+Peppermint Jasmine Mlik Tea,2014-5-14,dlsXVO23Tpq3
+Banana Mlik Tea,2013-4-21,h1IIMEGK
+Cappuccino Milk Tea,2015-1-5,6WhmbTlS
+Papaya Milk Tea,2010-7-19,POxMOrFGTu
+Red Bean Milk Tea,2017-11-28,UwfWrpf6q
+Taro Milk Tea,2015-1-11,ZbxFy2boBo
+Watermelon Milk Tea,2016-12-12,BUL6XqxJWj
+Honeydew Milk Tea,2011-12-24,IoKHnRjn0pk
+match Milk Tea,2017-12-29,f6Ris5mPr
+Pinky,2010-9-14,F9Ru0Xau9C
+Mango Mille Crepe,2011-11-1,s2uqdAmB
+Matcha Mille Crepe,2015-6-24,WgP1KA7J
+Strawberry Pancake,2015-4-8,VSCBBV3I
+Mango Pancake,2014-5-3,3wATN0Ct
+Banana Pancake,2013-11-5,LnR7Xxi5a
+Special Mango Juice Sago,2011-4-1,ZUTXUQjl
+Crispy Popcorn Chicken,2018-3-6,wHh3j5Cbvc
+Fired Squid Ball,2018-1-31,a5eg3k9I6D52
+Potsticker,2016-8-22,77ZqSHf4cLyt
+Taiwanese Sausage,2015-12-12,SYcX7Nux0Hs
+Sweet Potato Fries ,2011-7-21,ciOvILcGs
+Fired Okra,2014-3-18,gtc4mKCxyoQ
+Fired String Bean,2011-11-11,nUvsaUgfU0kJ
+Tater Tots,2010-9-22,Vqf9rD4D9
+Banana Smoothie,2010-5-17,ZrliCuBQB
+Taro Smoothie,2011-6-27,ouuAM7k0h84
+Matcha Smoothie,2012-4-16,qeGUbMO3P3
+Ice Cream Mlik Tea,2018-1-7,9pjzsa5BBrs
+Peppermint Jasmine Mlik Tea,2013-5-23,qxmbJBXMjrO
+Banana Mlik Tea,2010-12-2,IPlrghCLk
+Cappuccino Milk Tea,2016-4-27,aH6xI025T
+Papaya Milk Tea,2012-6-14,gocJOrXwU
+Red Bean Milk Tea,2016-9-24,4JU4wtjWvD
+Taro Milk Tea,2014-12-24,MJPHEBBR
+Watermelon Milk Tea,2015-11-5,3QjYizbjET
+Honeydew Milk Tea,2015-10-20,hq2HykqT
+match Milk Tea,2011-3-22,uvKOx1bU
+Pinky,2017-10-26,tV19mqT3xFiY
+Mango Mille Crepe,2017-7-3,t23In7YcqiuQ
+Matcha Mille Crepe,2012-3-28,vNVB7CYUk
+Strawberry Pancake,2013-1-16,AkzCOt0Q9eqD
+Mango Pancake,2017-10-4,nfMEVtvVB2
+Banana Pancake,2017-2-17,OKrIcPYU
+Special Mango Juice Sago,2015-3-6,UI9xSLPA
+Crispy Popcorn Chicken,2017-6-11,8RZ2TjTK
+Fired Squid Ball,2015-4-10,s3iYIeMlE
+Potsticker,2011-8-14,T13ZBVPGpHg
+Taiwanese Sausage,2015-11-18,ZKwUr0dxBK
+Green Tea,2015-8-27,zJ4hSvSzZ
+Jasmine Mlik Tea,2013-10-10,Zxexse9cHnrr
+Thai Tea,2010-10-25,nKdyrZRS
+Mango Green Tea,2015-7-2,qJjMAn3rAj0z
+Strawberry Green Tea,2011-10-19,LngoAy4AIb89
+Peach Green Tea,2011-2-21,Cb2yEpoP4Jlw
+Lychee Green Tea,2016-12-1,47XgkoU8
+Lemon Green Tea,2013-8-14,jY5sB5OPZs
+Watermelon Green Tea,2015-5-29,U1f2fGFT6FFj
+Passion Green Tea,2016-6-9,Tm3fOMTHmJa
+Vanilla Green Tea,2013-10-3,0a5tXH8e7g1
+Peppermine Tea,2010-5-3,veHjEipbqsB
+Salt Cheese Green Tea,2010-4-21,F1qnHb12Z
+Salt Cheese Black Tea,2017-5-2,EafNSi8A
+Mango Smoothie,2017-9-14,zkIa3e31
+Strawberry Smoothie,2014-11-21,V4sVqkGmrn
+Avocado Smoothie,2016-2-7,G5zxHKOarubn
+Banana Smoothie,2014-12-1,YZBE10ggvGx
+Taro Smoothie,2017-5-17,ZLP6SWfspV
+Peppermine Tea,2014-3-19,pnA0OJzibp8
+Salt Cheese Green Tea,2011-12-27,AUiPxEwWS
+Salt Cheese Black Tea,2013-12-21,8b0x3wRiv2R
+Mango Smoothie,2011-1-22,sH7SMEWcjig
+Strawberry Smoothie,2015-5-9,1pacK04x4I
+Avocado Smoothie,2012-8-7,Bk3rwvuM
+Banana Smoothie,2016-7-28,Sqx6us40yKc
+Taro Smoothie,2010-11-29,BhV2saMhzj
+Matcha Smoothie,2012-6-19,ECRYJHIYEddt
+Ice Cream Mlik Tea,2011-9-16,JMlb7h81i0
+Peppermint Jasmine Mlik Tea,2014-9-21,RMBVhTKwmB
+Banana Mlik Tea,2013-1-14,yLFo8LJD
+Cappuccino Milk Tea,2010-4-19,LuzpJXlcuoFW
+Papaya Milk Tea,2017-12-9,kh1PNXVY837c
+Red Bean Milk Tea,2018-1-12,icFj4QiU
+Honeydew Milk Tea,2013-4-11,9EyPyEJWOUar
+match Milk Tea,2013-3-11,pmjdakoHv3IA
+Pinky,2013-5-16,5DDM6GPfW
+Mango Mille Crepe,2012-10-10,4B1sfTGE
+Matcha Mille Crepe,2011-2-13,jphV9nGH1k
+Strawberry Pancake,2010-5-31,8nfQ2byoD
+Mango Pancake,2010-9-12,Lo9ukj1R
+Banana Pancake,2013-6-26,nAlVNmx8Mh
+Special Mango Juice Sago,2013-4-15,L3qJmUyrVPSc
+Crispy Popcorn Chicken,2014-4-27,n1dqaYiWd
+Fired Squid Ball,2011-10-18,JnyptVgtTs
+Potsticker,2013-1-22,3D2x0yh9Ch9
+Taiwanese Sausage,2011-9-12,Sy3o50bL
+Sweet Potato Fries ,2017-12-6,KGIxPyoB
+Fired Okra,2011-12-7,jnzYpN3vVyX
+Fired String Bean,2014-9-5,Qp2Jm7uzt
+Tater Tots,2016-2-9,bUk9nB6a
+Banana Smoothie,2012-11-15,Ok7cbquJePZc
+Taro Smoothie,2017-7-1,8ioMs4Vk
+Matcha Smoothie,2014-3-2,GM77EohZY
+Ice Cream Mlik Tea,2013-5-26,2jZCtSY6Y
+Peppermint Jasmine Mlik Tea,2011-3-21,sSeowEbY0
+Banana Mlik Tea,2014-12-1,6gwEgmynt5
+Cappuccino Milk Tea,2011-3-7,M55L3h60qkh
+Papaya Milk Tea,2011-8-19,5mCWISGJYww
+Red Bean Milk Tea,2017-6-3,hp3vLBno4
+Taro Milk Tea,2016-9-23,5fZEb8MdN
+Watermelon Milk Tea,2013-7-29,eSba5fkpT
+Honeydew Milk Tea,2011-1-1,EbJ7zxt8J
+Banana Pancake,2011-11-17,QtDWj05Br
+Special Mango Juice Sago,2012-12-29,O8fuySxii7x
+Crispy Popcorn Chicken,2017-6-2,8afRVNXRAliS
+Fired Squid Ball,2010-8-22,jBMNFsSYt
+Potsticker,2010-9-29,zS4686YSYyUP
+Taiwanese Sausage,2016-12-25,DaR61nA0f
+Green Tea,2015-8-27,YBQGqNPA
+Jasmine Mlik Tea,2016-9-19,anE0wiam6S
+Thai Tea,2014-4-10,pj7nxkuUMso
+Mango Green Tea,2012-11-8,f2MYog6UKUf
+Strawberry Green Tea,2011-1-16,qyPYwc6fiL
+Peach Green Tea,2016-6-6,A5AnIrzBn
+Lychee Green Tea,2011-10-25,ijKKpk6a1N1
+Lemon Green Tea,2010-4-23,X2CHFdBn
+Watermelon Green Tea,2016-1-3,9JrJgjPoVoEd
+Passion Green Tea,2015-9-6,icReVJ8K1hg
+Vanilla Green Tea,2015-8-18,dIo4f89POhJ
+Peppermine Tea,2010-6-6,2v7jRdaSb9W3
+Salt Cheese Green Tea,2017-2-20,FfTifVbxv
+Salt Cheese Black Tea,2017-10-17,pM1eFhrVwwY
+Mango Smoothie,2011-12-30,aTyXJWt7Q
+Strawberry Smoothie,2016-9-3,16tYj8I5d7pr
+Avocado Smoothie,2017-9-5,UDLokrqj3MO
+Banana Smoothie,2014-4-30,J85MWNHy
+Taro Smoothie,2010-9-4,VQgcMAY6
+Peppermine Tea,2012-10-16,CUR2Bnnub
+Salt Cheese Green Tea,2010-10-23,WGkEX1C4k3m3
+Salt Cheese Black Tea,2011-1-25,xmBMumJ4
+Mango Smoothie,2010-8-17,C8cZKkrihW
+Strawberry Smoothie,2011-8-28,86iLG6TG2E
+Avocado Smoothie,2016-10-5,LpCRZk5B
+Banana Smoothie,2014-7-26,apWYOrGjYCz2
+Taro Smoothie,2016-11-22,XheKLDLSfyu
+Matcha Smoothie,2015-4-1,0i8ApmUAPz
+Ice Cream Mlik Tea,2016-9-6,Hmq8cEK47
+Peppermint Jasmine Mlik Tea,2013-1-21,8BQrtajFKBvM
+Banana Mlik Tea,2016-12-11,enN09EKW9i
+Cappuccino Milk Tea,2016-10-23,2b2ZIL5NOn
+Papaya Milk Tea,2016-12-2,1wTGWpVyiCW8
+Red Bean Milk Tea,2012-5-23,Ry5UW49Y
+Honeydew Milk Tea,2014-5-10,ONkyHnRpPBc
+match Milk Tea,2012-12-25,De8MBWQE6
+Pinky,2017-11-3,tlAdTzzxB
+Mango Mille Crepe,2012-7-31,27dfLWfcy
+Matcha Mille Crepe,2015-5-18,xJlk6VhCTWDi
+Strawberry Pancake,2016-11-19,RGkP1ZOC
+Mango Pancake,2014-5-19,lJVo2WOKY2J
+Banana Pancake,2017-11-3,gltIexwhMb
+Special Mango Juice Sago,2014-4-5,9qLvmm7ZkeS1
+Crispy Popcorn Chicken,2016-6-24,3qTfUbzSqa9
+Fired Squid Ball,2016-9-27,Z0XJdAprwT
+Potsticker,2010-7-1,EUy2eKb8
+Taiwanese Sausage,2013-4-10,j29UIRVdg
+Sweet Potato Fries ,2010-4-3,1hRehleJT
+Fired Okra,2016-11-25,SZHiAmaoRY
+Fired String Bean,2014-12-23,B3pnwtbfGwOw
+Tater Tots,2016-2-11,jaet13WMy9z
+Banana Smoothie,2018-1-6,13iA2rdG1
+Taro Smoothie,2016-8-19,KOmQx6bTV8
+Matcha Smoothie,2011-11-21,vf7Xed3m
+Ice Cream Mlik Tea,2012-1-31,sEta54h44q
+Peppermint Jasmine Mlik Tea,2012-10-31,2FtwGz1w
+Banana Mlik Tea,2010-4-9,IiexuLEsJ
+Cappuccino Milk Tea,2014-10-8,mrG2gwJPo
+Papaya Milk Tea,2015-8-21,Bs5UJ5ihih
+Red Bean Milk Tea,2010-7-14,rRQBWNdr
+Taro Milk Tea,2014-1-9,7UrzrSyxF
+Watermelon Milk Tea,2012-4-9,6r1RfIgicOu
+Fired String Bean,2017-1-3,E6mjRmXxsfm
+Tater Tots,2013-9-16,e8hHEs9V373X
+Banana Smoothie,2011-11-7,rm0Q7Te1r
+Taro Smoothie,2011-7-27,qHOpZTjWsvbq
+Matcha Smoothie,2011-6-9,T1NjF65QMl
+Ice Cream Mlik Tea,2018-2-28,2FK7Gkzs
+Peppermint Jasmine Mlik Tea,2014-9-5,u7dQqjVza
+Banana Mlik Tea,2013-7-30,dlsXVO23Tpq3
+Cappuccino Milk Tea,2018-2-28,h1IIMEGK
+Papaya Milk Tea,2010-10-30,6WhmbTlS
+Red Bean Milk Tea,2016-9-17,POxMOrFGTu
+Taro Milk Tea,2016-1-7,UwfWrpf6q
+Watermelon Milk Tea,2016-6-8,ZbxFy2boBo
+Honeydew Milk Tea,2011-8-8,BUL6XqxJWj
+Banana Pancake,2015-10-1,IoKHnRjn0pk
+Special Mango Juice Sago,2011-9-2,f6Ris5mPr
+Crispy Popcorn Chicken,2014-4-17,F9Ru0Xau9C
+Fired Squid Ball,2017-1-2,s2uqdAmB
+Potsticker,2011-11-12,WgP1KA7J
+Taiwanese Sausage,2011-2-21,VSCBBV3I
+Green Tea,2018-2-10,3wATN0Ct
+Jasmine Mlik Tea,2015-10-21,LnR7Xxi5a
+Thai Tea,2010-7-12,ZUTXUQjl
+Mango Green Tea,2011-3-24,wHh3j5Cbvc
+Strawberry Green Tea,2016-1-27,a5eg3k9I6D52
+Peach Green Tea,2016-6-22,77ZqSHf4cLyt
+Lychee Green Tea,2012-2-29,SYcX7Nux0Hs
+Lemon Green Tea,2016-6-13,ciOvILcGs
+Watermelon Green Tea,2017-7-31,gtc4mKCxyoQ
+Passion Green Tea,2015-1-19,nUvsaUgfU0kJ
+Vanilla Green Tea,2010-5-8,Vqf9rD4D9
+Peppermine Tea,2013-9-14,ZrliCuBQB
+Salt Cheese Green Tea,2015-12-21,ouuAM7k0h84
+Salt Cheese Black Tea,2014-5-24,qeGUbMO3P3
+Mango Smoothie,2017-5-7,9pjzsa5BBrs
+Strawberry Smoothie,2014-9-28,qxmbJBXMjrO
+Strawberry Smoothie,2015-7-27,IPlrghCLk
+Avocado Smoothie,2014-11-10,aH6xI025T
+Banana Smoothie,2016-3-14,gocJOrXwU
+Taro Smoothie,2014-3-30,4JU4wtjWvD
+Matcha Smoothie,2017-10-18,MJPHEBBR
+Ice Cream Mlik Tea,2011-6-11,ODwfk48LG5uo
+Peppermint Jasmine Mlik Tea,2015-11-2,kNEnxhhW
+Banana Mlik Tea,2010-7-3,cm8U6Wl5D
+Cappuccino Milk Tea,2015-4-4,SSUZv3BfffBt
+Papaya Milk Tea,2013-11-24,n15kKo5abp
+Red Bean Milk Tea,2010-7-12,KCAflTmK
+Honeydew Milk Tea,2013-3-18,qLa9wyjfd
+match Milk Tea,2012-11-23,TTHYqKDDh
+Pinky,2017-11-22,B8iYCSrA
+Mango Mille Crepe,2010-9-21,G9XjVvb94
+Matcha Mille Crepe,2010-8-7,yUwQbld3Vh
+Strawberry Pancake,2018-1-29,TLigkRUC5
+Mango Pancake,2017-4-2,fFU0ve1tSV
+Banana Pancake,2017-11-2,6LjCo5CO
+Special Mango Juice Sago,2018-4-1,URF3XVz6Eh
+Crispy Popcorn Chicken,2016-1-17,WBm6ST432pE
+Fired Squid Ball,2015-5-14,ynA1VbFXgUHy
+Potsticker,2013-7-25,MF7x44rFIt
+Taiwanese Sausage,2016-1-25,BLkp6tvAlt
+Sweet Potato Fries ,2014-6-25,rV0c2MQ53v2
+Fired Okra,2016-4-14,vB2quxKEFQ
+Fired String Bean,2012-7-14,xwpipl5i
+Tater Tots,2014-7-5,fnls237c
+Banana Smoothie,2012-1-29,zxeJPMyLv
+Taro Smoothie,2016-8-21,MHzxv5ZYH6
+Matcha Smoothie,2017-6-13,KyG8pgqqM
+Ice Cream Mlik Tea,2011-10-17,345z4oocexu
+Peppermint Jasmine Mlik Tea,2013-9-4,7HFe2fqCYT
+Banana Mlik Tea,2014-5-28,IvLhxckcv6kt
+Cappuccino Milk Tea,2014-8-22,hl80hDtQf
+Papaya Milk Tea,2010-12-22,Yw33NZGB
+Red Bean Milk Tea,2010-4-12,swXvtr1s
+Taro Milk Tea,2015-9-7,wyKZUt2n
+Watermelon Milk Tea,2010-12-4,oCoZC1COyS
+Fired String Bean,2014-11-19,2B6nDA0tp8fg
+Tater Tots,2014-6-5,N6jPGIlYlCH6
+Banana Smoothie,2011-12-28,5Sx5Witei3
+Taro Smoothie,2011-10-11,zhv48yME7
+Matcha Smoothie,2016-7-20,0etgVVCA4B
+Ice Cream Mlik Tea,2013-7-27,R3DwVxkcq
+Peppermint Jasmine Mlik Tea,2014-4-18,RJBAPWZV
+Banana Mlik Tea,2016-4-11,IYQEvXJF
+Cappuccino Milk Tea,2012-6-3,sGxo9Tglud
+Papaya Milk Tea,2012-11-18,6PrQE9zaPzb4
+Red Bean Milk Tea,2017-10-12,aeBy03fGg
+Taro Milk Tea,2012-2-12,DcKCGI7t
+Watermelon Milk Tea,2017-9-22,CSl8BFJLn
+Honeydew Milk Tea,2015-7-5,7S7P3GMZ
+Banana Pancake,2017-7-27,YCkxDfsw7eZM
+Special Mango Juice Sago,2017-9-8,FV6fh8wK
+Crispy Popcorn Chicken,2013-7-9,JZILJnl60ys
+Fired Squid Ball,2017-7-13,kfEc66OIqS6t
+Potsticker,2011-12-25,UvmWAjW6d
+Taiwanese Sausage,2014-9-2,ggXaoeUtK5
+Green Tea,2015-8-25,v71SGMLNSh
+Jasmine Mlik Tea,2012-2-28,OBdNYSL6
+Thai Tea,2012-6-23,HCxOFnhzAy
+Mango Green Tea,2014-11-3,E6mjRmXxsfm
+Strawberry Green Tea,2010-4-27,e8hHEs9V373X
+Peach Green Tea,2011-3-22,rm0Q7Te1r
+Lychee Green Tea,2012-6-3,qHOpZTjWsvbq
+Lemon Green Tea,2013-7-28,T1NjF65QMl
+Watermelon Green Tea,2014-4-25,2FK7Gkzs
+Passion Green Tea,2017-11-7,u7dQqjVza
+Vanilla Green Tea,2017-11-17,dlsXVO23Tpq3
+Peppermine Tea,2015-6-27,h1IIMEGK
+Salt Cheese Green Tea,2012-10-30,6WhmbTlS
+Salt Cheese Black Tea,2010-5-26,POxMOrFGTu
+Mango Smoothie,2012-12-23,UwfWrpf6q
+Banana Mlik Tea,2010-10-18,ZbxFy2boBo
+Cappuccino Milk Tea,2013-9-13,BUL6XqxJWj
+Papaya Milk Tea,2011-10-31,IoKHnRjn0pk
+Red Bean Milk Tea,2016-3-14,f6Ris5mPr
+Taro Milk Tea,2014-6-22,F9Ru0Xau9C
+Watermelon Milk Tea,2012-4-20,s2uqdAmB
+Honeydew Milk Tea,2013-6-26,WgP1KA7J
+Banana Pancake,2013-7-29,VSCBBV3I
+Special Mango Juice Sago,2013-11-27,3wATN0Ct
+Crispy Popcorn Chicken,2015-8-9,LnR7Xxi5a
+Fired Squid Ball,2016-11-26,ZUTXUQjl
+Potsticker,2011-2-8,wHh3j5Cbvc
+Taiwanese Sausage,2016-10-30,a5eg3k9I6D52
+Green Tea,2017-12-23,77ZqSHf4cLyt
+Jasmine Mlik Tea,2016-6-25,SYcX7Nux0Hs
+Thai Tea,2011-1-27,ciOvILcGs
+Mango Green Tea,2013-4-30,gtc4mKCxyoQ
+Strawberry Green Tea,2011-12-20,nUvsaUgfU0kJ
+Peach Green Tea,2017-1-6,Vqf9rD4D9
+Lychee Green Tea,2017-5-23,ZrliCuBQB
+Lemon Green Tea,2012-5-10,ouuAM7k0h84
+Watermelon Green Tea,2017-12-11,qeGUbMO3P3
+Passion Green Tea,2011-10-27,9pjzsa5BBrs
+Vanilla Green Tea,2014-4-11,qxmbJBXMjrO
+Peppermine Tea,2015-9-9,IPlrghCLk
+Salt Cheese Green Tea,2015-7-5,aH6xI025T
+Salt Cheese Black Tea,2014-11-15,gocJOrXwU
+Mango Smoothie,2015-6-3,4JU4wtjWvD
+Strawberry Smoothie,2011-5-10,MJPHEBBR
+Strawberry Smoothie,2012-12-13,3QjYizbjET
+Avocado Smoothie,2016-7-7,hq2HykqT
+Banana Smoothie,2012-5-13,uvKOx1bU
+Taro Smoothie,2011-9-30,tV19mqT3xFiY
+Matcha Smoothie,2010-5-10,t23In7YcqiuQ
+Ice Cream Mlik Tea,2012-8-9,vNVB7CYUk
+Peppermint Jasmine Mlik Tea,2016-5-21,AkzCOt0Q9eqD
+Banana Mlik Tea,2012-11-30,nfMEVtvVB2
+Cappuccino Milk Tea,2017-11-16,OKrIcPYU
+Papaya Milk Tea,2017-7-26,UI9xSLPA
+Red Bean Milk Tea,2012-1-14,8RZ2TjTK
+Honeydew Milk Tea,2015-6-28,s3iYIeMlE
+match Milk Tea,2014-7-30,T13ZBVPGpHg
+Banana Mlik Tea,2012-6-29,ZKwUr0dxBK
+Cappuccino Milk Tea,2010-8-30,zJ4hSvSzZ
+Papaya Milk Tea,2011-5-21,Zxexse9cHnrr
+Red Bean Milk Tea,2015-9-5,nKdyrZRS
+Taro Milk Tea,2012-10-11,qJjMAn3rAj0z
+Watermelon Milk Tea,2012-8-17,LngoAy4AIb89
+Fired String Bean,2016-10-29,Cb2yEpoP4Jlw
+Tater Tots,2016-4-7,47XgkoU8
+Banana Smoothie,2016-10-16,jY5sB5OPZs
+Taro Smoothie,2013-7-4,U1f2fGFT6FFj
+Matcha Smoothie,2012-7-2,Tm3fOMTHmJa
+Ice Cream Mlik Tea,2010-8-19,0a5tXH8e7g1
+Peppermint Jasmine Mlik Tea,2014-11-18,veHjEipbqsB
+Banana Mlik Tea,2014-7-6,F1qnHb12Z
+Cappuccino Milk Tea,2012-7-15,EafNSi8A
+Papaya Milk Tea,2011-1-31,zkIa3e31
+Red Bean Milk Tea,2015-9-22,V4sVqkGmrn
+Taro Milk Tea,2016-6-15,G5zxHKOarubn
+Watermelon Milk Tea,2016-9-27,YZBE10ggvGx
+Honeydew Milk Tea,2017-8-2,ZLP6SWfspV
+Banana Pancake,2017-2-9,pnA0OJzibp8
+Special Mango Juice Sago,2014-1-7,AUiPxEwWS
+Crispy Popcorn Chicken,2017-11-28,8b0x3wRiv2R
+Fired Squid Ball,2010-12-9,sH7SMEWcjig
+Potsticker,2010-8-13,1pacK04x4I
+Taiwanese Sausage,2014-8-18,Bk3rwvuM
+Green Tea,2017-5-17,Sqx6us40yKc
+Jasmine Mlik Tea,2018-1-10,BhV2saMhzj
+Thai Tea,2016-3-1,ECRYJHIYEddt
+Mango Green Tea,2012-3-22,JMlb7h81i0
+Strawberry Green Tea,2011-8-17,enN09EKW9i
+Peach Green Tea,2015-8-27,2b2ZIL5NOn
+Lychee Green Tea,2017-3-28,1wTGWpVyiCW8
+Lemon Green Tea,2010-4-10,Ry5UW49Y
+Watermelon Green Tea,2014-11-9,ONkyHnRpPBc
+Passion Green Tea,2011-10-8,De8MBWQE6
+Vanilla Green Tea,2014-9-11,tlAdTzzxB
+Peppermine Tea,2010-10-20,27dfLWfcy
+Salt Cheese Green Tea,2016-6-19,xJlk6VhCTWDi
+Salt Cheese Black Tea,2013-5-10,RGkP1ZOC
+Mango Smoothie,2012-5-16,lJVo2WOKY2J
+Strawberry Smoothie,2014-10-19,gltIexwhMb
+Strawberry Smoothie,2010-12-10,9qLvmm7ZkeS1
+Avocado Smoothie,2015-1-12,3qTfUbzSqa9
+Banana Smoothie,2015-3-26,Z0XJdAprwT
+Taro Smoothie,2010-4-23,EUy2eKb8
+Matcha Smoothie,2016-4-19,j29UIRVdg
+Ice Cream Mlik Tea,2013-6-2,1hRehleJT
+Peppermint Jasmine Mlik Tea,2012-9-1,SZHiAmaoRY
+Banana Mlik Tea,2017-8-3,B3pnwtbfGwOw
+Cappuccino Milk Tea,2012-3-8,jaet13WMy9z
+Papaya Milk Tea,2017-8-22,13iA2rdG1
+Red Bean Milk Tea,2011-9-2,KOmQx6bTV8
+Honeydew Milk Tea,2012-2-12,vf7Xed3m
+match Milk Tea,2011-12-6,sEta54h44q
+Pinky,2013-9-2,2FtwGz1w
+Mango Mille Crepe,2012-10-1,IiexuLEsJ
+Matcha Mille Crepe,2011-11-21,mrG2gwJPo
+Strawberry Pancake,2010-4-17,Bs5UJ5ihih
+Mango Pancake,2018-3-26,rRQBWNdr
+Banana Pancake,2010-4-21,7UrzrSyxF
+Special Mango Juice Sago,2011-4-19,6r1RfIgicOu
+Crispy Popcorn Chicken,2016-5-4,E6mjRmXxsfm
+Fired Squid Ball,2013-9-21,e8hHEs9V373X
+Potsticker,2015-9-6,rm0Q7Te1r
+Taiwanese Sausage,2018-1-11,qHOpZTjWsvbq
+Sweet Potato Fries ,2012-11-7,T1NjF65QMl
+Fired Okra,2018-2-16,2FK7Gkzs
+Fired String Bean,2010-6-19,u7dQqjVza
+Tater Tots,2017-10-9,dlsXVO23Tpq3
+Banana Smoothie,2015-10-25,h1IIMEGK
+Taro Smoothie,2012-2-23,6WhmbTlS
+Matcha Smoothie,2014-10-6,POxMOrFGTu
+Ice Cream Mlik Tea,2014-4-8,UwfWrpf6q
+Peppermint Jasmine Mlik Tea,2016-1-7,ZbxFy2boBo
+Banana Mlik Tea,2016-10-8,BUL6XqxJWj
+Cappuccino Milk Tea,2012-10-3,IoKHnRjn0pk
+Papaya Milk Tea,2016-12-5,f6Ris5mPr
+Red Bean Milk Tea,2013-7-11,F9Ru0Xau9C
+Taro Milk Tea,2015-4-26,s2uqdAmB
+Watermelon Milk Tea,2011-10-4,WgP1KA7J
+Fired String Bean,2015-7-27,VSCBBV3I
+Tater Tots,2012-8-14,3wATN0Ct
+Banana Smoothie,2013-5-28,LnR7Xxi5a
+Taro Smoothie,2012-12-18,ZUTXUQjl
+Matcha Smoothie,2015-1-29,wHh3j5Cbvc
+Ice Cream Mlik Tea,2018-2-7,a5eg3k9I6D52
+Peppermint Jasmine Mlik Tea,2015-8-30,77ZqSHf4cLyt
+Banana Mlik Tea,2014-6-21,SYcX7Nux0Hs
+Cappuccino Milk Tea,2014-7-7,ciOvILcGs
+Papaya Milk Tea,2011-4-17,gtc4mKCxyoQ
+Red Bean Milk Tea,2013-11-10,nUvsaUgfU0kJ
+Taro Milk Tea,2013-8-23,Vqf9rD4D9
+Watermelon Milk Tea,2012-12-22,ZrliCuBQB
+Honeydew Milk Tea,2017-8-31,ouuAM7k0h84
+Banana Pancake,2011-2-19,qeGUbMO3P3
+Special Mango Juice Sago,2014-11-2,9pjzsa5BBrs
+Crispy Popcorn Chicken,2012-10-3,qxmbJBXMjrO
+Fired Squid Ball,2012-2-9,IPlrghCLk
+Potsticker,2011-2-27,aH6xI025T
+Taiwanese Sausage,2015-6-3,gocJOrXwU
+Green Tea,2016-9-10,4JU4wtjWvD
+Jasmine Mlik Tea,2013-12-10,MJPHEBBR
+Thai Tea,2011-9-15,ODwfk48LG5uo
+Mango Green Tea,2014-6-19,kNEnxhhW
+Strawberry Green Tea,2013-2-26,cm8U6Wl5D
+Peach Green Tea,2014-4-5,SSUZv3BfffBt
+Lychee Green Tea,2014-10-17,n15kKo5abp
+Lemon Green Tea,2016-1-12,KCAflTmK
+Watermelon Green Tea,2013-2-22,qLa9wyjfd
+Passion Green Tea,2016-12-1,TTHYqKDDh
+Vanilla Green Tea,2012-7-25,B8iYCSrA
+Peppermine Tea,2014-9-8,G9XjVvb94
+Salt Cheese Green Tea,2012-12-24,yUwQbld3Vh
+Salt Cheese Black Tea,2013-5-1,TLigkRUC5
+Mango Smoothie,2013-5-15,fFU0ve1tSV
+Banana Mlik Tea,2015-3-2,6LjCo5CO
+Cappuccino Milk Tea,2015-7-11,URF3XVz6Eh
+Papaya Milk Tea,2014-8-6,WBm6ST432pE
+Red Bean Milk Tea,2011-12-14,ynA1VbFXgUHy
+Taro Milk Tea,2018-3-3,MF7x44rFIt
+Watermelon Milk Tea,2016-6-8,BLkp6tvAlt
+Honeydew Milk Tea,2011-9-7,rV0c2MQ53v2
+Banana Pancake,2013-7-4,vB2quxKEFQ
+Special Mango Juice Sago,2017-1-31,xwpipl5i
+Crispy Popcorn Chicken,2013-12-17,fnls237c
+Fired Squid Ball,2014-5-25,zxeJPMyLv
+Potsticker,2017-4-8,MHzxv5ZYH6
+Honeydew Milk Tea,2011-1-27,KyG8pgqqM
+Banana Pancake,2014-9-28,345z4oocexu
+Special Mango Juice Sago,2011-6-25,7HFe2fqCYT
+Crispy Popcorn Chicken,2011-8-23,IvLhxckcv6kt
+Fired Squid Ball,2017-2-8,hl80hDtQf
+Potsticker,2012-8-21,Yw33NZGB
+Taiwanese Sausage,2014-9-10,swXvtr1s
+Green Tea,2017-4-30,wyKZUt2n
+Jasmine Mlik Tea,2016-11-11,oCoZC1COyS
+Thai Tea,2012-2-15,2B6nDA0tp8fg
+Mango Green Tea,2017-11-22,N6jPGIlYlCH6
+Strawberry Green Tea,2013-9-2,5Sx5Witei3
+Peach Green Tea,2015-12-13,zhv48yME7
+Lychee Green Tea,2016-9-15,0etgVVCA4B
+Lemon Green Tea,2015-1-22,R3DwVxkcq
+Watermelon Green Tea,2012-7-8,RJBAPWZV
+Passion Green Tea,2010-9-14,IYQEvXJF
+Vanilla Green Tea,2017-12-20,sGxo9Tglud
+Peppermine Tea,2018-1-2,6PrQE9zaPzb4
+Salt Cheese Green Tea,2011-1-20,aeBy03fGg
+Salt Cheese Black Tea,2011-12-26,DcKCGI7t
+Mango Smoothie,2018-3-21,CSl8BFJLn
+Banana Mlik Tea,2015-9-27,7S7P3GMZ
+Cappuccino Milk Tea,2012-8-14,YCkxDfsw7eZM
+Papaya Milk Tea,2013-7-24,FV6fh8wK
+Red Bean Milk Tea,2015-5-10,JZILJnl60ys
+Taro Milk Tea,2014-12-23,kfEc66OIqS6t
+Watermelon Milk Tea,2016-4-22,UvmWAjW6d
+Honeydew Milk Tea,2011-6-2,ggXaoeUtK5
+Banana Pancake,2016-5-26,v71SGMLNSh
+Special Mango Juice Sago,2014-11-9,OBdNYSL6
+Crispy Popcorn Chicken,2018-2-3,HCxOFnhzAy
+Fired Squid Ball,2014-12-24,E6mjRmXxsfm
+Potsticker,2014-5-21,e8hHEs9V373X
+Taiwanese Sausage,2014-12-19,rm0Q7Te1r
+Green Tea,2014-7-17,qHOpZTjWsvbq
+Jasmine Mlik Tea,2010-6-8,T1NjF65QMl
+Thai Tea,2013-7-17,2FK7Gkzs
+Mango Green Tea,2013-12-7,u7dQqjVza
+Strawberry Green Tea,2010-8-14,jY5sB5OPZs
+Peach Green Tea,2015-8-11,U1f2fGFT6FFj
+Lychee Green Tea,2012-6-19,Tm3fOMTHmJa
+Lemon Green Tea,2010-4-29,0a5tXH8e7g1
+Watermelon Green Tea,2017-12-7,veHjEipbqsB
+Passion Green Tea,2017-5-13,F1qnHb12Z
+Vanilla Green Tea,2017-10-10,EafNSi8A
+Red Bean Milk Tea,2012-3-12,zkIa3e31
+Taro Milk Tea,2012-8-29,V4sVqkGmrn
+Watermelon Milk Tea,2010-6-24,G5zxHKOarubn
+Honeydew Milk Tea,2013-11-19,YZBE10ggvGx
+Banana Pancake,2012-9-10,ZLP6SWfspV
+Special Mango Juice Sago,2011-10-25,pnA0OJzibp8
+Crispy Popcorn Chicken,2016-10-26,AUiPxEwWS
+Fired Squid Ball,2014-1-2,8b0x3wRiv2R
+Potsticker,2012-4-3,sH7SMEWcjig
+Honeydew Milk Tea,2013-10-23,1pacK04x4I
+Banana Pancake,2016-2-1,Bk3rwvuM
+Special Mango Juice Sago,2014-12-9,Sqx6us40yKc
+Crispy Popcorn Chicken,2015-5-19,BhV2saMhzj
+Fired Squid Ball,2015-4-3,ECRYJHIYEddt
+Potsticker,2011-12-18,JMlb7h81i0
+Taiwanese Sausage,2010-4-29,enN09EKW9i
+Green Tea,2013-8-27,2b2ZIL5NOn
+Jasmine Mlik Tea,2011-9-30,1wTGWpVyiCW8
+Thai Tea,2014-4-9,Ry5UW49Y
+Mango Green Tea,2014-12-8,ONkyHnRpPBc
+Strawberry Green Tea,2014-9-12,De8MBWQE6
+Peach Green Tea,2016-10-24,tlAdTzzxB
+Lychee Green Tea,2010-10-26,27dfLWfcy
+Lemon Green Tea,2013-2-24,xJlk6VhCTWDi
+Watermelon Green Tea,2012-10-27,RGkP1ZOC
+Passion Green Tea,2017-7-21,lJVo2WOKY2J
+Vanilla Green Tea,2016-1-1,gltIexwhMb
+Peppermine Tea,2011-4-15,9qLvmm7ZkeS1
+Salt Cheese Green Tea,2013-9-12,3qTfUbzSqa9
+Salt Cheese Black Tea,2012-5-14,Z0XJdAprwT
+Mango Smoothie,2016-9-16,EUy2eKb8
+Banana Mlik Tea,2010-5-12,j29UIRVdg
+Cappuccino Milk Tea,2013-12-27,1hRehleJT
+Papaya Milk Tea,2013-3-6,SZHiAmaoRY
+Peppermine Tea,2017-12-25,B3pnwtbfGwOw
+Salt Cheese Green Tea,2011-1-11,jaet13WMy9z
+Salt Cheese Black Tea,2013-11-14,13iA2rdG1
+Mango Smoothie,2013-9-3,KOmQx6bTV8
+Banana Mlik Tea,2012-11-10,vf7Xed3m
+Cappuccino Milk Tea,2011-10-6,sEta54h44q
+Papaya Milk Tea,2017-7-19,2FtwGz1w
+Red Bean Milk Tea,2010-11-1,IiexuLEsJ
+Taro Milk Tea,2011-4-1,mrG2gwJPo
+Watermelon Milk Tea,2013-1-12,Bs5UJ5ihih
+Honeydew Milk Tea,2010-4-25,rRQBWNdr
+Banana Pancake,2010-7-10,7UrzrSyxF
+Special Mango Juice Sago,2013-3-9,6r1RfIgicOu
+Crispy Popcorn Chicken,2014-2-6,E6mjRmXxsfm
+Fired Squid Ball,2010-6-7,e8hHEs9V373X
+Potsticker,2014-2-8,rm0Q7Te1r
+Taiwanese Sausage,2010-8-27,qHOpZTjWsvbq
+Green Tea,2013-2-27,T1NjF65QMl
+Jasmine Mlik Tea,2015-12-21,2FK7Gkzs
+Thai Tea,2015-4-2,u7dQqjVza
+Mango Green Tea,2013-4-10,dlsXVO23Tpq3
+Strawberry Green Tea,2015-12-18,h1IIMEGK
+Peach Green Tea,2017-1-21,6WhmbTlS
+Lychee Green Tea,2010-7-16,POxMOrFGTu
+Lemon Green Tea,2012-5-14,UwfWrpf6q
+Watermelon Green Tea,2014-9-13,ZbxFy2boBo
+Passion Green Tea,2014-5-9,BUL6XqxJWj
+Vanilla Green Tea,2016-5-16,IoKHnRjn0pk
+Red Bean Milk Tea,2013-8-23,f6Ris5mPr
+Taro Milk Tea,2017-10-16,F9Ru0Xau9C
+Watermelon Milk Tea,2015-4-7,s2uqdAmB
+Honeydew Milk Tea,2015-7-13,WgP1KA7J
+Banana Pancake,2012-5-19,VSCBBV3I
+Special Mango Juice Sago,2012-4-27,3wATN0Ct
+Crispy Popcorn Chicken,2014-5-26,LnR7Xxi5a
+Fired Squid Ball,2014-2-21,ZUTXUQjl
+Potsticker,2017-4-3,wHh3j5Cbvc
+Honeydew Milk Tea,2016-5-8,a5eg3k9I6D52
+Banana Pancake,2011-12-3,77ZqSHf4cLyt
+Special Mango Juice Sago,2013-3-27,SYcX7Nux0Hs
+Crispy Popcorn Chicken,2013-1-19,ciOvILcGs
+Fired Squid Ball,2015-11-1,gtc4mKCxyoQ
+Salt Cheese Green Tea,2014-12-5,nUvsaUgfU0kJ
+Salt Cheese Black Tea,2016-10-18,Vqf9rD4D9
+Mango Smoothie,2017-5-5,ZrliCuBQB
+Banana Mlik Tea,2012-11-12,ouuAM7k0h84
+Cappuccino Milk Tea,2014-8-23,qeGUbMO3P3
+Papaya Milk Tea,2010-5-11,9pjzsa5BBrs
+Peppermine Tea,2010-9-21,qxmbJBXMjrO
+Salt Cheese Green Tea,2014-1-19,IPlrghCLk
+Salt Cheese Black Tea,2016-3-26,aH6xI025T
+Mango Smoothie,2014-4-14,gocJOrXwU
+Banana Mlik Tea,2017-8-4,4JU4wtjWvD
+Cappuccino Milk Tea,2016-3-5,MJPHEBBR
+Papaya Milk Tea,2014-2-18,ODwfk48LG5uo
+Red Bean Milk Tea,2012-7-6,kNEnxhhW
+Taro Milk Tea,2015-6-19,cm8U6Wl5D
+Watermelon Milk Tea,2013-1-14,SSUZv3BfffBt
+Honeydew Milk Tea,2010-5-8,n15kKo5abp
+Banana Pancake,2012-3-29,KCAflTmK
+Special Mango Juice Sago,2016-9-4,qLa9wyjfd
+Crispy Popcorn Chicken,2016-2-17,TTHYqKDDh
+Fired Squid Ball,2013-10-8,B8iYCSrA
+Potsticker,2015-1-7,G9XjVvb94
+Taiwanese Sausage,2011-11-30,yUwQbld3Vh
+Green Tea,2012-12-30,TLigkRUC5
+Jasmine Mlik Tea,2011-7-24,fFU0ve1tSV
+Thai Tea,2011-1-12,6LjCo5CO
+Mango Green Tea,2011-3-17,URF3XVz6Eh
+Strawberry Green Tea,2016-7-17,WBm6ST432pE
+Peach Green Tea,2016-11-18,ynA1VbFXgUHy
+Lychee Green Tea,2013-11-5,MF7x44rFIt
+Lemon Green Tea,2012-5-2,BLkp6tvAlt
+Watermelon Green Tea,2014-2-3,rV0c2MQ53v2
+Passion Green Tea,2014-8-2,vB2quxKEFQ
+Vanilla Green Tea,2016-7-30,xwpipl5i
+Peppermine Tea,2017-2-7,fnls237c
+Salt Cheese Green Tea,2010-12-23,zxeJPMyLv
+Salt Cheese Black Tea,2012-4-13,MHzxv5ZYH6
+Mango Smoothie,2012-7-24,KyG8pgqqM
+Banana Mlik Tea,2010-10-31,345z4oocexu
+Cappuccino Milk Tea,2015-7-9,7HFe2fqCYT
+Papaya Milk Tea,2018-2-4,IvLhxckcv6kt
+Red Bean Milk Tea,2011-10-23,hl80hDtQf
+Taro Milk Tea,2015-6-11,Yw33NZGB
+Watermelon Milk Tea,2010-8-20,swXvtr1s
+Honeydew Milk Tea,2016-8-11,wyKZUt2n
+Banana Pancake,2010-12-25,oCoZC1COyS
+Special Mango Juice Sago,2017-10-29,2B6nDA0tp8fg
+Crispy Popcorn Chicken,2014-1-12,N6jPGIlYlCH6
+Fired Squid Ball,2012-12-30,5Sx5Witei3
+Potsticker,2011-7-5,zhv48yME7
+Taiwanese Sausage,2010-10-21,0etgVVCA4B
+Green Tea,2011-8-22,R3DwVxkcq
+Jasmine Mlik Tea,2017-12-14,RJBAPWZV
+Thai Tea,2011-5-10,IYQEvXJF
+Mango Green Tea,2011-10-9,sGxo9Tglud
+Strawberry Green Tea,2010-4-23,6PrQE9zaPzb4
+Peach Green Tea,2013-1-21,aeBy03fGg
+Lychee Green Tea,2013-4-11,DcKCGI7t
+Lemon Green Tea,2016-2-22,CSl8BFJLn
+Watermelon Green Tea,2014-12-28,7S7P3GMZ
+Passion Green Tea,2011-5-9,YCkxDfsw7eZM
+Vanilla Green Tea,2015-11-15,FV6fh8wK
+Peppermine Tea,2015-3-9,JZILJnl60ys
+Salt Cheese Green Tea,2017-4-28,kfEc66OIqS6t
+Salt Cheese Black Tea,2015-5-24,UvmWAjW6d
+Mango Smoothie,2011-7-3,ggXaoeUtK5
+Strawberry Smoothie,2012-3-12,v71SGMLNSh
+Strawberry Smoothie,2014-6-20,OBdNYSL6
+Avocado Smoothie,2014-9-2,HCxOFnhzAy
+Banana Smoothie,2015-3-27,E6mjRmXxsfm
+Taro Smoothie,2015-12-25,e8hHEs9V373X
+Matcha Smoothie,2011-1-30,rm0Q7Te1r
+Ice Cream Mlik Tea,2012-5-8,qHOpZTjWsvbq
+Peppermint Jasmine Mlik Tea,2011-1-6,T1NjF65QMl
+Banana Mlik Tea,2011-7-11,2FK7Gkzs
+Cappuccino Milk Tea,2013-10-12,WgP1KA7J
+Papaya Milk Tea,2011-5-10,VSCBBV3I
+Red Bean Milk Tea,2018-2-11,3wATN0Ct
+Honeydew Milk Tea,2017-3-6,LnR7Xxi5a
+match Milk Tea,2014-1-5,ZUTXUQjl
+Banana Mlik Tea,2010-4-29,wHh3j5Cbvc
+Cappuccino Milk Tea,2011-4-5,a5eg3k9I6D52
+Papaya Milk Tea,2015-2-22,77ZqSHf4cLyt
+Red Bean Milk Tea,2016-3-24,SYcX7Nux0Hs
+Taro Milk Tea,2016-9-9,ciOvILcGs
+Watermelon Milk Tea,2013-3-30,gtc4mKCxyoQ
+Fired String Bean,2011-12-26,nUvsaUgfU0kJ
+Tater Tots,2015-3-25,Vqf9rD4D9
+Banana Smoothie,2013-1-6,ZrliCuBQB
+Taro Smoothie,2013-10-6,ouuAM7k0h84
+Matcha Smoothie,2011-10-26,qeGUbMO3P3
+Ice Cream Mlik Tea,2012-2-24,9pjzsa5BBrs
+Peppermint Jasmine Mlik Tea,2017-12-19,qxmbJBXMjrO
+Banana Mlik Tea,2013-12-14,IPlrghCLk
+Cappuccino Milk Tea,2011-4-22,aH6xI025T
+Papaya Milk Tea,2017-12-22,gocJOrXwU
+Red Bean Milk Tea,2016-9-11,4JU4wtjWvD
+Taro Milk Tea,2011-9-8,MJPHEBBR
+Watermelon Milk Tea,2012-1-12,ODwfk48LG5uo
+Honeydew Milk Tea,2015-6-20,kNEnxhhW
+Banana Pancake,2013-3-10,cm8U6Wl5D
+Special Mango Juice Sago,2016-11-23,SSUZv3BfffBt
+Crispy Popcorn Chicken,2012-9-12,n15kKo5abp
+Fired Squid Ball,2010-7-28,KCAflTmK
+Potsticker,2010-12-20,qLa9wyjfd
+Taiwanese Sausage,2018-3-9,TTHYqKDDh
+Green Tea,2014-9-10,B8iYCSrA
+Jasmine Mlik Tea,2010-7-28,G9XjVvb94
+Thai Tea,2014-10-27,yUwQbld3Vh
+Mango Green Tea,2012-10-16,TLigkRUC5
+Strawberry Green Tea,2017-10-22,fFU0ve1tSV
+Peach Green Tea,2011-2-8,6LjCo5CO
+Lychee Green Tea,2012-8-15,URF3XVz6Eh
+Lemon Green Tea,2016-6-14,WBm6ST432pE
+Watermelon Green Tea,2014-7-23,ynA1VbFXgUHy
+Passion Green Tea,2016-11-15,MF7x44rFIt
+Vanilla Green Tea,2015-1-26,BLkp6tvAlt
+Peppermine Tea,2012-12-6,rV0c2MQ53v2
+Salt Cheese Green Tea,2015-4-23,vB2quxKEFQ
+Salt Cheese Black Tea,2018-2-12,xwpipl5i
+Mango Smoothie,2018-1-4,fnls237c
+Strawberry Smoothie,2012-2-21,zxeJPMyLv
+Strawberry Smoothie,2016-6-18,MHzxv5ZYH6
+Avocado Smoothie,2016-3-28,KyG8pgqqM
+Banana Smoothie,2015-4-21,345z4oocexu
+Taro Smoothie,2017-3-30,7HFe2fqCYT
+Matcha Smoothie,2016-5-31,IvLhxckcv6kt
+Ice Cream Mlik Tea,2013-8-22,hl80hDtQf
+Peppermint Jasmine Mlik Tea,2017-8-6,Yw33NZGB
+Banana Mlik Tea,2011-1-6,swXvtr1s
+Cappuccino Milk Tea,2016-5-4,wyKZUt2n
+Papaya Milk Tea,2010-9-4,oCoZC1COyS
+Red Bean Milk Tea,2016-1-25,2B6nDA0tp8fg
+Honeydew Milk Tea,2011-9-1,N6jPGIlYlCH6
+match Milk Tea,2015-12-7,5Sx5Witei3
+Pinky,2014-10-28,zhv48yME7
+Mango Mille Crepe,2018-2-12,0etgVVCA4B
+Matcha Mille Crepe,2010-7-14,R3DwVxkcq
+Strawberry Pancake,2015-1-31,RJBAPWZV
+Mango Pancake,2015-6-21,IYQEvXJF
+Banana Pancake,2010-4-13,sGxo9Tglud
+Special Mango Juice Sago,2012-9-13,6PrQE9zaPzb4
+Crispy Popcorn Chicken,2017-12-10,aeBy03fGg
+Fired Squid Ball,2012-6-3,DcKCGI7t
+Potsticker,2011-12-4,CSl8BFJLn
+Taiwanese Sausage,2016-3-27,7S7P3GMZ
+Sweet Potato Fries ,2013-4-17,YCkxDfsw7eZM
+Fired Okra,2011-2-4,FV6fh8wK
+Fired String Bean,2016-2-17,JZILJnl60ys
+Tater Tots,2010-10-19,kfEc66OIqS6t
+Banana Smoothie,2011-2-3,UvmWAjW6d
+Taro Smoothie,2012-6-12,ggXaoeUtK5
+Matcha Smoothie,2011-1-15,v71SGMLNSh
+Ice Cream Mlik Tea,2015-8-24,OBdNYSL6
+Peppermint Jasmine Mlik Tea,2016-11-29,HCxOFnhzAy
+Banana Mlik Tea,2015-3-7,E6mjRmXxsfm
+Cappuccino Milk Tea,2012-2-24,e8hHEs9V373X
+Papaya Milk Tea,2010-6-21,rm0Q7Te1r
+Red Bean Milk Tea,2012-8-7,qHOpZTjWsvbq
+Taro Milk Tea,2015-4-5,T1NjF65QMl
+Watermelon Milk Tea,2017-6-13,2FK7Gkzs
+Fired String Bean,2012-6-25,u7dQqjVza
+Tater Tots,2013-10-18,dlsXVO23Tpq3
+Banana Smoothie,2013-10-17,h1IIMEGK
+Taro Smoothie,2015-2-6,6WhmbTlS
+Matcha Smoothie,2014-10-29,POxMOrFGTu
+Ice Cream Mlik Tea,2013-12-2,UwfWrpf6q
+Peppermint Jasmine Mlik Tea,2016-5-15,ZbxFy2boBo
+Banana Mlik Tea,2011-2-24,BUL6XqxJWj
+Cappuccino Milk Tea,2018-1-9,IoKHnRjn0pk
+Papaya Milk Tea,2011-4-6,f6Ris5mPr
+Red Bean Milk Tea,2013-5-7,F9Ru0Xau9C
+Taro Milk Tea,2015-2-9,s2uqdAmB
+Watermelon Milk Tea,2012-5-22,WgP1KA7J
+Honeydew Milk Tea,2015-2-22,VSCBBV3I
+Banana Pancake,2011-4-8,3wATN0Ct
+Special Mango Juice Sago,2015-7-16,LnR7Xxi5a
+Crispy Popcorn Chicken,2010-4-13,ZUTXUQjl
+Fired Squid Ball,2010-8-15,wHh3j5Cbvc
+Potsticker,2012-5-20,a5eg3k9I6D52
+Taiwanese Sausage,2012-8-18,77ZqSHf4cLyt
+Green Tea,2017-12-2,SYcX7Nux0Hs
+Jasmine Mlik Tea,2017-3-8,ciOvILcGs
+Thai Tea,2012-6-28,gtc4mKCxyoQ
+Mango Green Tea,2013-7-29,nUvsaUgfU0kJ
+Strawberry Green Tea,2017-11-28,Vqf9rD4D9
+Peach Green Tea,2012-9-27,ZrliCuBQB
+Lychee Green Tea,2014-7-17,ouuAM7k0h84
+Lemon Green Tea,2011-10-8,qeGUbMO3P3
+Watermelon Green Tea,2013-1-7,9pjzsa5BBrs
+Passion Green Tea,2010-9-27,qxmbJBXMjrO
+Vanilla Green Tea,2017-4-17,IPlrghCLk
+Peppermine Tea,2010-5-17,aH6xI025T
+Salt Cheese Green Tea,2015-7-4,gocJOrXwU
+Salt Cheese Black Tea,2014-9-1,4JU4wtjWvD
+Mango Smoothie,2013-12-17,MJPHEBBR
+Banana Mlik Tea,2010-6-10,3QjYizbjET
+Cappuccino Milk Tea,2010-5-19,hq2HykqT
+Papaya Milk Tea,2011-1-28,uvKOx1bU
+Red Bean Milk Tea,2018-2-19,tV19mqT3xFiY
+Taro Milk Tea,2011-8-21,t23In7YcqiuQ
+Watermelon Milk Tea,2015-3-6,vNVB7CYUk
+Honeydew Milk Tea,2015-5-7,AkzCOt0Q9eqD
+Banana Pancake,2014-6-15,nfMEVtvVB2
+Special Mango Juice Sago,2014-1-5,OKrIcPYU
+Crispy Popcorn Chicken,2011-5-4,UI9xSLPA
+Fired Squid Ball,2013-9-6,8RZ2TjTK
+Potsticker,2014-4-26,s3iYIeMlE
+Honeydew Milk Tea,2017-7-13,T13ZBVPGpHg
+Banana Pancake,2013-1-31,ZKwUr0dxBK
+Special Mango Juice Sago,2010-6-15,zJ4hSvSzZ
+Crispy Popcorn Chicken,2017-8-27,Zxexse9cHnrr
+Fired Squid Ball,2012-10-21,CUR2Bnnub
+Potsticker,2012-8-13,WGkEX1C4k3m3
+Taiwanese Sausage,2011-10-17,xmBMumJ4
+Green Tea,2017-1-1,C8cZKkrihW
+Jasmine Mlik Tea,2013-7-15,86iLG6TG2E
+Thai Tea,2011-10-22,LpCRZk5B
+Mango Green Tea,2014-5-22,apWYOrGjYCz2
+Strawberry Green Tea,2013-6-27,XheKLDLSfyu
+Peach Green Tea,2018-2-23,0i8ApmUAPz
+Lychee Green Tea,2011-12-27,Hmq8cEK47
+Lemon Green Tea,2010-11-4,8BQrtajFKBvM
+Watermelon Green Tea,2017-12-8,enN09EKW9i
+Passion Green Tea,2013-10-11,2b2ZIL5NOn
+Vanilla Green Tea,2013-3-31,1wTGWpVyiCW8
+Peppermine Tea,2013-6-4,Ry5UW49Y
+Salt Cheese Green Tea,2016-3-22,ONkyHnRpPBc
+Salt Cheese Black Tea,2013-5-8,De8MBWQE6
+Mango Smoothie,2012-8-19,tlAdTzzxB
+Banana Mlik Tea,2016-11-18,27dfLWfcy
+Cappuccino Milk Tea,2014-2-19,xJlk6VhCTWDi
+Papaya Milk Tea,2014-5-10,RGkP1ZOC
+Red Bean Milk Tea,2014-11-28,lJVo2WOKY2J
+Taro Milk Tea,2012-2-19,gltIexwhMb
+Watermelon Milk Tea,2015-5-11,9qLvmm7ZkeS1
+Honeydew Milk Tea,2014-4-27,3qTfUbzSqa9
+Banana Pancake,2012-1-12,Z0XJdAprwT
+Special Mango Juice Sago,2017-12-4,EUy2eKb8
+Crispy Popcorn Chicken,2014-10-31,j29UIRVdg
+Fired Squid Ball,2012-4-2,1hRehleJT
+Potsticker,2012-4-19,SZHiAmaoRY
+Taiwanese Sausage,2016-12-29,B3pnwtbfGwOw
+Green Tea,2016-9-5,jaet13WMy9z
+Jasmine Mlik Tea,2012-2-14,13iA2rdG1
+Thai Tea,2011-1-26,KOmQx6bTV8
+Mango Green Tea,2011-5-20,vf7Xed3m
+Strawberry Green Tea,2014-12-6,sEta54h44q
+Peach Green Tea,2015-4-25,2FtwGz1w
+Lychee Green Tea,2012-4-2,IiexuLEsJ
+Lemon Green Tea,2011-4-20,mrG2gwJPo
+Watermelon Green Tea,2014-9-22,Bs5UJ5ihih
+Passion Green Tea,2012-4-1,rRQBWNdr
+Vanilla Green Tea,2017-4-7,7UrzrSyxF
+Red Bean Milk Tea,2012-6-22,6r1RfIgicOu
+Taro Milk Tea,2017-4-22,N9Jc8QQax
+Watermelon Milk Tea,2010-10-31,d79vlvdYzlv4
+Honeydew Milk Tea,2015-12-8,eMblHC2f
+Banana Pancake,2017-5-27,5svtpzR11omv
+Special Mango Juice Sago,2011-12-13,Z0EezkYx
+Crispy Popcorn Chicken,2010-12-10,vYs5ItuFJWH
+Fired Squid Ball,2017-10-8,FQGGyuv6wqX
+Potsticker,2012-10-1,X2s2n0dxls
+Honeydew Milk Tea,2012-3-3,AksI0hyhjS
+Banana Pancake,2014-4-23,6iiBi8OLWa
+Special Mango Juice Sago,2012-5-5,LPgjlpMy7u
+Crispy Popcorn Chicken,2016-4-3,ip8H35sk9
+Fired Squid Ball,2017-11-19,lBKCSPPXoA
+Potsticker,2015-3-18,Pr1JMwTv3J
+Taiwanese Sausage,2012-1-12,59MLyddacTR
+Green Tea,2011-9-17,5ET1FGHx
+Jasmine Mlik Tea,2015-11-2,QTO5rvK8c
+Thai Tea,2017-11-4,8neIkbSzdZ
+Mango Green Tea,2017-1-21,zaq2NjdVTH
+Strawberry Green Tea,2016-5-8,8MEssP3oC
+Peach Green Tea,2011-7-20,3z150BNff2Z
+Lychee Green Tea,2015-1-13,y8tbhTSLZC
+Lemon Green Tea,2011-11-9,jx5w7oY1
+Watermelon Green Tea,2014-7-21,LMCbya32jr
+Passion Green Tea,2017-2-7,U3Zx0wy2zlZe
+Vanilla Green Tea,2011-10-7,BF2mEpFLRvNP
+Peppermine Tea,2017-1-10,XsIj69h3w
+Salt Cheese Green Tea,2014-1-23,USxAq6YP97S
+Salt Cheese Black Tea,2012-6-10,QRUVwMwIf
+Mango Smoothie,2010-4-17,mOGrQxuCdo
+Banana Mlik Tea,2014-8-8,gkOJLDSuzvpa
+Cappuccino Milk Tea,2011-2-7,FA34FMYNmXZ
+Papaya Milk Tea,2017-8-23,WhjNadYCRcit
+Peppermine Tea,2015-1-4,vViZqDBky
+Salt Cheese Green Tea,2012-3-4,l5teVFCTmH
+Salt Cheese Black Tea,2013-5-28,oWPWSj53Fd
+Mango Smoothie,2015-4-23,FomSw3qN
+Banana Mlik Tea,2012-12-11,sizdnTiAw
+Cappuccino Milk Tea,2013-5-24,t0hGEHC1
+Papaya Milk Tea,2016-12-9,RhZcFqa3cGv
+Red Bean Milk Tea,2010-7-11,7sPfFi70q4
+Taro Milk Tea,2011-9-23,oNKVhFht
+Watermelon Milk Tea,2010-8-15,InxrVx2dalO1
+Honeydew Milk Tea,2011-4-11,oattrR3L
+Banana Pancake,2018-1-26,dSfkuYLBi5t
+Special Mango Juice Sago,2010-12-27,oWkRq1eP96X
+Crispy Popcorn Chicken,2014-1-17,BBaOU448XX5Q
+Fired Squid Ball,2011-9-29,x528rU7pgzHk
+Potsticker,2015-4-28,OS7lejl514
+Taiwanese Sausage,2013-9-23,VSCXBESIstZI
+Green Tea,2012-4-11,ydEi56XU
+Jasmine Mlik Tea,2016-3-10,lLqfMs9hVYR0
+Thai Tea,2014-2-10,yofkgSmk
+Mango Green Tea,2010-9-28,PZRi5v1X4F6
+Strawberry Green Tea,2014-7-9,BD3KPcZrzV
+Peach Green Tea,2011-12-2,wyxmZcxK7X
+Lychee Green Tea,2017-12-5,PXEco0vPkH
+Lemon Green Tea,2014-4-1,nlG5c3l3
+Watermelon Green Tea,2017-8-6,qYVuBu4EeWt
+Passion Green Tea,2010-7-10,7Jl2l8d9vG7
+Vanilla Green Tea,2014-4-4,Y0WLW0NUgsSt
+Red Bean Milk Tea,2011-12-28,19Z9HiIl6NU8
+Taro Milk Tea,2016-9-5,xRB5OPdW
+Watermelon Milk Tea,2012-7-3,gvFbde4oVDe9
+Honeydew Milk Tea,2017-6-28,AXpLyPer
+Banana Pancake,2016-7-30,xO3pxlv0wEek
+Special Mango Juice Sago,2012-4-14,6mEllaCs
+Crispy Popcorn Chicken,2016-5-10,8o6QzHcf4B
+Fired Squid Ball,2013-9-8,IFxHSttb
+Potsticker,2012-6-23,2wgPvh2vK
+Honeydew Milk Tea,2014-2-21,b8zHbpTlyv6u
+Banana Pancake,2015-5-27,CBqzrtzqKk
+Special Mango Juice Sago,2016-8-26,cWmcTxE7
+Crispy Popcorn Chicken,2011-1-28,9jBJnXyrT
+Fired Squid Ball,2016-9-30,t9dHIuAVZh
+Salt Cheese Green Tea,2010-11-11,fuwImBYH
+Salt Cheese Black Tea,2013-2-7,cfCG1WHqK
+Mango Smoothie,2012-5-4,fPdAe7jLuCQO
+Banana Mlik Tea,2013-12-30,Lp7O5iSi
+Cappuccino Milk Tea,2010-12-19,iXUglb35Z
+Papaya Milk Tea,2017-6-13,lbhCWxOsnJ
+Peppermine Tea,2016-2-22,vcOFta61dV
+Salt Cheese Green Tea,2011-1-1,pp8Ja1hmq
+Salt Cheese Black Tea,2015-5-8,NbpfaZ5GM904
+Mango Smoothie,2013-5-29,NypeYVhBgYK8
+Banana Mlik Tea,2014-12-17,oHASVmGvovTf
+Cappuccino Milk Tea,2016-2-29,RrrmWCBMIU
+Papaya Milk Tea,2014-1-1,uLlBofXYHLfN
+Red Bean Milk Tea,2015-1-30,xrWVnXKk
+Taro Milk Tea,2012-8-6,IKHf7WPN3
+Watermelon Milk Tea,2011-12-10,VS4hId7gaq
+Honeydew Milk Tea,2011-12-8,lIALMAJN4KQ
+Banana Pancake,2017-3-1,cSyaK83HCla0
+Special Mango Juice Sago,2014-10-23,NXUpy9NDj
+Crispy Popcorn Chicken,2012-3-6,HllFOoYb
+Fired Squid Ball,2017-2-20,6Uq9YgNKozlS
+Potsticker,2015-11-28,EvWbLkuZtvx
+Taiwanese Sausage,2011-2-8,K708ayr8p
+Green Tea,2013-8-11,qZY31hKw
+Jasmine Mlik Tea,2015-12-6,vR64BafByJ
+Thai Tea,2016-2-24,XsdMKrp8vK
+Mango Green Tea,2012-10-13,h2BpHSsA
+Strawberry Green Tea,2011-3-22,2bWTI0os
+Peach Green Tea,2014-9-6,FyI2auMy8
+Lychee Green Tea,2011-11-16,FcPlE9Xd8M9
+Lemon Green Tea,2014-1-27,Jp1oG3ts
+Honeydew Milk Tea,2015-5-18,IO4dyBBC
+Banana Pancake,2017-11-22,mn35E9LIYDdu
+Special Mango Juice Sago,2010-4-10,TOqZ6ctkEI
+Crispy Popcorn Chicken,2013-8-1,9zhjTBjj
+Fired Squid Ball,2015-2-4,KC3NRQ7g8yNm
+Salt Cheese Green Tea,2011-12-13,9DakevOc
+Salt Cheese Black Tea,2013-9-21,hSnaIvmlLT
+Mango Smoothie,2011-8-16,pikZlqmuK
+Banana Mlik Tea,2012-9-13,bWSyP3IZz
+Cappuccino Milk Tea,2015-6-29,eQF6lCCTcSr
+Papaya Milk Tea,2017-2-19,tMDhXH5qlE
+Peppermine Tea,2017-8-28,VB9geHtX
+Salt Cheese Green Tea,2017-12-30,En5e295r
+Salt Cheese Black Tea,2017-2-6,k3XzcmWr
+Mango Smoothie,2015-3-19,WRTIZRQHYdR
+Banana Mlik Tea,2017-2-25,3LL3SoX0dCu
+Cappuccino Milk Tea,2011-5-13,ZrcCCRN7M
+Papaya Milk Tea,2013-2-2,1zNzLI4vCM28
+Red Bean Milk Tea,2017-6-24,pmr9B4l1lI
+Taro Milk Tea,2014-3-26,SUS1gdmwpf
+Watermelon Milk Tea,2012-11-8,8BQSZ6Iok
+Honeydew Milk Tea,2014-7-12,v81IXRDt
+Banana Pancake,2010-8-30,6qDCr3Kx
+Special Mango Juice Sago,2013-12-25,UGBrzKFvGZu
+Crispy Popcorn Chicken,2015-11-2,x3ikqBiVmiq
+Fired Squid Ball,2013-3-3,CBaX4cwu
+Potsticker,2015-11-17,v6Q1SAtoQ7s1
+Taiwanese Sausage,2016-1-1,7xogogkxAj
+Green Tea,2011-12-29,T4BbBTe2
+Jasmine Mlik Tea,2016-10-22,ELv1aFYFbB
+Thai Tea,2014-2-2,px034ggQR
+Mango Green Tea,2014-9-5,m6SxSebJ88Gl
+Strawberry Green Tea,2016-8-30,s9pGov7wnB
+Peach Green Tea,2017-8-5,00KE5mv94p6r
+Lychee Green Tea,2013-11-29,PvJN2tXNJcf
+Lemon Green Tea,2017-12-8,6cc8b7zmvES
+Watermelon Green Tea,2011-11-26,mp9HDcEQAp
+Passion Green Tea,2014-4-7,yj2qaGwC
+Vanilla Green Tea,2014-3-20,hAvBpnBWqsu
+Peppermine Tea,2012-7-13,s5bLFI8zbkv
+Salt Cheese Green Tea,2011-8-12,Xsm41JdOvw
+Salt Cheese Black Tea,2010-9-18,uWdeNGlj47
+Mango Smoothie,2015-1-29,GWzblpq1tQCs
+Banana Mlik Tea,2012-10-29,ouurCvSv
+Cappuccino Milk Tea,2017-12-3,yAjUzWEi
+Taiwanese Sausage,2011-3-7,l80fqd3M5A
+Green Tea,2017-8-20,bBS8uusMMww
+Jasmine Mlik Tea,2014-10-4,oOZeNdk3Ar5
+Thai Tea,2017-4-28,XCH9vtvq
+Mango Green Tea,2010-6-8,WLi63LjFIS
+Strawberry Green Tea,2014-10-13,wg4HtkEfnn
+Peach Green Tea,2014-1-8,U1lZR57psUj8
+Lychee Green Tea,2014-8-9,zPEbyN1Q
+Lemon Green Tea,2011-8-25,xnDkkiYRCm94
+Taro Milk Tea,2014-6-2,Yklrcw5d0Wl
+Watermelon Milk Tea,2012-11-29,LJDfX2Xj
+Honeydew Milk Tea,2014-4-24,GDoNbUJf
+Banana Pancake,2011-2-23,9SgAC8FjIKrV
+Special Mango Juice Sago,2010-8-15,LQKnn45b
+Crispy Popcorn Chicken,2013-11-30,vXhLkPjTPag
+Fired Squid Ball,2017-7-16,npQllIVcoca
+Potsticker,2012-2-28,2WBcA1OmTtu
+Taiwanese Sausage,2014-6-13,tF6dIFTO
+Green Tea,2012-2-13,ju3qRHPrEi
+Jasmine Mlik Tea,2018-1-26,SH3wvDI9nkd
+Thai Tea,2012-9-4,odDBNZ2jnXY
+Mango Green Tea,2014-5-2,JbeoMckE0gr
+Strawberry Green Tea,2016-10-4,MMXbifUPJ
+Peach Green Tea,2016-5-31,EfbrpnXZ816C
+Lychee Green Tea,2011-11-20,1KwXcpAA05ix
+Lemon Green Tea,2016-9-25,BNOGZVoS
+Watermelon Green Tea,2010-7-19,aXAobiQdL3
+Passion Green Tea,2015-1-13,pf1VirCiPN
+Vanilla Green Tea,2011-3-16,AeN61gy24a
+Red Bean Milk Tea,2016-7-24,jvA3ufXYW
+Taro Milk Tea,2014-3-30,fjfQbu3OQ
+Watermelon Milk Tea,2013-2-3,6g9uLrIXo
+Honeydew Milk Tea,2013-10-4,F7nnQ61j
+Banana Pancake,2016-1-5,7syzlGmxaL
+Special Mango Juice Sago,2014-10-8,d6CIVnwHY
+Crispy Popcorn Chicken,2016-3-26,LnzPJhrtLM
+Fired Squid Ball,2014-3-25,o8lEbmKr
+Potsticker,2017-11-13,thFRYkbAq
+Honeydew Milk Tea,2014-6-17,JkcjuSb9yKG
+Banana Pancake,2016-7-12,niWjZ4hgH
+Special Mango Juice Sago,2015-4-24,MVBFepuxOWO
+Crispy Popcorn Chicken,2016-12-7,RpaJ9Xf1I6
+Fired Squid Ball,2010-6-7,K5APrKnVSi
+Salt Cheese Green Tea,2011-5-19,KXj3WCGD
+Salt Cheese Black Tea,2015-7-28,mkStpkLrR2xj
+Mango Smoothie,2017-2-22,TTvfUbHXA
+Banana Mlik Tea,2012-9-22,K0TjIwoPzSA
+Cappuccino Milk Tea,2018-3-27,vHob7BlM
+Papaya Milk Tea,2014-5-12,uugSdYhiABxP
+Peppermine Tea,2012-1-24,UcBJSUvM2M
+Salt Cheese Green Tea,2017-11-22,XhMOBDFLMfo
+Salt Cheese Black Tea,2016-3-8,N3UTW5pz
+Mango Smoothie,2012-6-22,g7PoagevS8
+Banana Mlik Tea,2010-10-16,RPCAZYGneYU
+Cappuccino Milk Tea,2010-10-31,LCCcAzEtqU
+Papaya Milk Tea,2014-2-11,05AQUjuK7HVz
+Red Bean Milk Tea,2016-7-22,2kFcQdXxf
+Taro Milk Tea,2018-1-13,aOSNL8ZK1VD
+Watermelon Milk Tea,2012-3-10,ljhcV84H
+Honeydew Milk Tea,2015-9-3,lBGoizo5u
+Banana Pancake,2012-11-9,dHf0d13Gar
+Special Mango Juice Sago,2017-11-21,3cLxWUEQuC3g
+Crispy Popcorn Chicken,2017-3-21,Jv1Bj5UakI
+Fired Squid Ball,2012-6-30,kwBSJ87q
+Potsticker,2017-10-14,1TezS8x98yZ0
+Taiwanese Sausage,2018-1-27,A50fKIuQOV
+Green Tea,2017-1-26,rO4MnPgBY
+Jasmine Mlik Tea,2016-4-24,67DVpBrR41MX
+Thai Tea,2014-8-29,JJQH1UwJ
+Mango Green Tea,2012-9-7,C15MyCoNy
+Strawberry Green Tea,2010-8-19,b43R4bOIe
+Peach Green Tea,2018-1-9,JdgOYEU0
+Lychee Green Tea,2016-7-13,EN467If3Sd
+Lemon Green Tea,2013-4-3,svkdm7NWd
+Honeydew Milk Tea,2012-6-1,QR3SIrPHU
+Banana Pancake,2013-9-9,vjfMyoaJIryq
+Special Mango Juice Sago,2013-6-3,a2AYeDa26g
+Crispy Popcorn Chicken,2015-8-29,7B0cfRpQnMNW
+Fired Squid Ball,2011-10-18,zGEwVi94koOJ
+Salt Cheese Green Tea,2015-4-24,smkby8My
+Salt Cheese Black Tea,2017-2-26,lGtUi0jx
+Mango Smoothie,2010-9-11,8tWWzTYt5
+Banana Mlik Tea,2016-10-5,aTIKND7bhis
+Cappuccino Milk Tea,2012-7-17,FniSMBcfz
+Papaya Milk Tea,2016-1-25,jZgcKrAkFu9
+Peppermine Tea,2012-6-2,OvYLAYwMzu
+Salt Cheese Green Tea,2017-8-7,aawWw1fZuTh
+Salt Cheese Black Tea,2018-1-25,7bmMck3g
+Mango Smoothie,2011-3-2,TRoS3Pgfl
+Banana Mlik Tea,2011-1-3,EMknEZrB9
+Cappuccino Milk Tea,2012-4-23,mVEcv95CnTle
+Papaya Milk Tea,2013-12-12,5UZdGAZyq4Rv
+Red Bean Milk Tea,2016-11-28,gdRKofRMYhF
+Taro Milk Tea,2011-10-18,DcKCGI7t
+Watermelon Milk Tea,2010-5-8,CSl8BFJLn
+Honeydew Milk Tea,2011-7-7,7S7P3GMZ
+Banana Pancake,2013-7-10,YCkxDfsw7eZM
+Special Mango Juice Sago,2011-4-16,FV6fh8wK
+Crispy Popcorn Chicken,2014-1-26,JZILJnl60ys
+Fired Squid Ball,2014-5-19,kfEc66OIqS6t
+Potsticker,2013-12-23,UvmWAjW6d
+Taiwanese Sausage,2012-4-15,ggXaoeUtK5
+Green Tea,2016-8-29,v71SGMLNSh
+Jasmine Mlik Tea,2017-10-29,OBdNYSL6
+Thai Tea,2016-12-8,HCxOFnhzAy
+Mango Green Tea,2017-12-3,E6mjRmXxsfm
+Strawberry Green Tea,2010-7-30,e8hHEs9V373X
+Peach Green Tea,2015-7-6,rm0Q7Te1r
+Lychee Green Tea,2017-8-10,qHOpZTjWsvbq
+Lemon Green Tea,2016-4-12,T1NjF65QMl
+Watermelon Green Tea,2016-5-30,2FK7Gkzs
+Passion Green Tea,2012-6-9,u7dQqjVza
+Vanilla Green Tea,2017-4-18,dlsXVO23Tpq3
+Peppermine Tea,2017-6-15,h1IIMEGK
+Salt Cheese Green Tea,2017-10-15,6WhmbTlS
+Salt Cheese Black Tea,2013-6-17,POxMOrFGTu
+Mango Smoothie,2013-5-29,UwfWrpf6q
+Banana Mlik Tea,2017-3-7,ZbxFy2boBo
+Cappuccino Milk Tea,2016-6-5,BUL6XqxJWj
+Taiwanese Sausage,2012-12-18,IoKHnRjn0pk
+Green Tea,2017-3-1,f6Ris5mPr
+Jasmine Mlik Tea,2015-11-20,F9Ru0Xau9C
+Thai Tea,2017-8-14,s2uqdAmB
+Mango Green Tea,2010-4-25,WgP1KA7J
+Lychee Green Tea,2011-7-31,VSCBBV3I
+Lemon Green Tea,2014-11-23,3wATN0Ct
+Watermelon Green Tea,2013-4-20,LnR7Xxi5a
+Passion Green Tea,2016-6-29,ZUTXUQjl
+Vanilla Green Tea,2012-6-5,wHh3j5Cbvc
+Peppermine Tea,2010-8-1,a5eg3k9I6D52
+Salt Cheese Green Tea,2010-9-21,77ZqSHf4cLyt
+Salt Cheese Black Tea,2012-9-6,SYcX7Nux0Hs
+Mango Smoothie,2012-8-19,ciOvILcGs
+Banana Mlik Tea,2012-10-10,gtc4mKCxyoQ
+Cappuccino Milk Tea,2011-12-21,nUvsaUgfU0kJ
+Taiwanese Sausage,2015-2-7,Vqf9rD4D9
+Green Tea,2017-2-13,ZrliCuBQB
+Jasmine Mlik Tea,2017-2-24,ouuAM7k0h84
+Thai Tea,2014-12-28,qeGUbMO3P3
+Mango Green Tea,2016-1-24,9pjzsa5BBrs
+Strawberry Green Tea,2017-7-27,qxmbJBXMjrO
+Peach Green Tea,2015-6-20,IPlrghCLk
+Lychee Green Tea,2012-7-15,aH6xI025T
+Lemon Green Tea,2017-4-18,gocJOrXwU
+Taro Milk Tea,2015-6-2,4JU4wtjWvD
+Watermelon Milk Tea,2011-6-28,MJPHEBBR
+Honeydew Milk Tea,2011-4-25,3QjYizbjET
+Banana Pancake,2015-10-30,hq2HykqT
+Special Mango Juice Sago,2012-6-24,uvKOx1bU
+Crispy Popcorn Chicken,2016-10-17,tV19mqT3xFiY
+Fired Squid Ball,2015-11-15,t23In7YcqiuQ
+Potsticker,2013-3-16,vNVB7CYUk
+Taiwanese Sausage,2011-11-24,AkzCOt0Q9eqD
+Green Tea,2017-6-3,nfMEVtvVB2
+Jasmine Mlik Tea,2016-3-3,OKrIcPYU
+Thai Tea,2015-8-5,UI9xSLPA
+Mango Green Tea,2011-9-11,8RZ2TjTK
+Strawberry Green Tea,2017-2-8,s3iYIeMlE
+Peach Green Tea,2012-7-14,T13ZBVPGpHg
+Lychee Green Tea,2015-4-29,ZKwUr0dxBK
+Lemon Green Tea,2017-1-17,zJ4hSvSzZ
+Watermelon Green Tea,2012-1-5,Zxexse9cHnrr
+Passion Green Tea,2014-7-9,nKdyrZRS
+Vanilla Green Tea,2013-9-22,qJjMAn3rAj0z
+Red Bean Milk Tea,2013-5-31,LngoAy4AIb89
+Taro Milk Tea,2015-3-29,Cb2yEpoP4Jlw
+Watermelon Milk Tea,2017-7-23,47XgkoU8
+Honeydew Milk Tea,2012-7-5,jY5sB5OPZs
+Banana Pancake,2015-1-20,U1f2fGFT6FFj
+Special Mango Juice Sago,2011-1-11,Tm3fOMTHmJa
+Crispy Popcorn Chicken,2016-7-31,0a5tXH8e7g1
+Fired Squid Ball,2014-11-1,veHjEipbqsB
+Potsticker,2011-12-4,F1qnHb12Z
+Honeydew Milk Tea,2010-6-23,EafNSi8A
+Banana Pancake,2015-8-1,zkIa3e31
+Special Mango Juice Sago,2013-2-13,V4sVqkGmrn
+Crispy Popcorn Chicken,2010-12-9,G5zxHKOarubn
+Fired Squid Ball,2010-9-10,YZBE10ggvGx
+Salt Cheese Green Tea,2015-12-27,ZLP6SWfspV
+Salt Cheese Black Tea,2010-12-15,pnA0OJzibp8
+Mango Smoothie,2012-5-27,AUiPxEwWS
+Banana Mlik Tea,2011-9-16,8b0x3wRiv2R
+Cappuccino Milk Tea,2010-12-4,sH7SMEWcjig
+Papaya Milk Tea,2010-12-22,1pacK04x4I
+Peppermine Tea,2016-1-16,Bk3rwvuM
+Salt Cheese Green Tea,2016-2-4,Sqx6us40yKc
+Cappuccino Milk Tea,2012-11-22,BhV2saMhzj
+Papaya Milk Tea,2015-4-8,ECRYJHIYEddt
+Red Bean Milk Tea,2012-4-30,JMlb7h81i0
+Honeydew Milk Tea,2013-2-14,RMBVhTKwmB
+match Milk Tea,2011-2-2,yLFo8LJD
+Banana Mlik Tea,2013-12-31,LuzpJXlcuoFW
+Cappuccino Milk Tea,2016-11-17,kh1PNXVY837c
+Papaya Milk Tea,2012-6-20,icFj4QiU
+Red Bean Milk Tea,2011-7-5,9EyPyEJWOUar
+Taro Milk Tea,2017-1-29,pmjdakoHv3IA
+Watermelon Milk Tea,2011-7-25,5DDM6GPfW
+Fired String Bean,2017-9-16,4B1sfTGE
+Tater Tots,2014-3-26,jphV9nGH1k
+Banana Smoothie,2013-4-9,8nfQ2byoD
+Taro Smoothie,2014-6-11,Lo9ukj1R
+Matcha Smoothie,2017-9-23,nAlVNmx8Mh
+Ice Cream Mlik Tea,2015-8-24,L3qJmUyrVPSc
+Peppermint Jasmine Mlik Tea,2016-11-26,n1dqaYiWd
+Banana Mlik Tea,2011-2-9,JnyptVgtTs
+Cappuccino Milk Tea,2015-10-20,3D2x0yh9Ch9
+Papaya Milk Tea,2017-2-23,Sy3o50bL
+Red Bean Milk Tea,2012-4-21,KGIxPyoB
+Taro Milk Tea,2014-12-4,g7PoagevS8
+Watermelon Milk Tea,2012-5-22,RPCAZYGneYU
+Honeydew Milk Tea,2015-10-5,LCCcAzEtqU
+Banana Pancake,2014-5-21,05AQUjuK7HVz
+Special Mango Juice Sago,2010-8-1,2kFcQdXxf
+Crispy Popcorn Chicken,2012-1-9,aOSNL8ZK1VD
+Fired Squid Ball,2014-4-13,ljhcV84H
+Potsticker,2014-4-20,lBGoizo5u
+Taiwanese Sausage,2014-12-11,dHf0d13Gar
+Green Tea,2017-4-20,3cLxWUEQuC3g
+Jasmine Mlik Tea,2011-1-31,Jv1Bj5UakI
+Thai Tea,2015-10-31,kwBSJ87q
+Mango Green Tea,2016-6-6,1TezS8x98yZ0
+Strawberry Green Tea,2011-11-7,A50fKIuQOV
+Peach Green Tea,2016-4-29,rO4MnPgBY
+Lychee Green Tea,2011-3-12,67DVpBrR41MX
+Lemon Green Tea,2010-4-11,JJQH1UwJ
+Watermelon Green Tea,2015-5-19,C15MyCoNy
+Passion Green Tea,2016-4-21,b43R4bOIe
+Vanilla Green Tea,2018-3-15,JdgOYEU0
+Peppermine Tea,2010-12-5,EN467If3Sd
+Salt Cheese Green Tea,2017-2-5,svkdm7NWd
+Salt Cheese Black Tea,2014-11-19,QR3SIrPHU
+Mango Smoothie,2012-3-28,vjfMyoaJIryq
+Strawberry Smoothie,2011-2-16,a2AYeDa26g
+Strawberry Smoothie,2015-9-5,7B0cfRpQnMNW
+Avocado Smoothie,2012-5-10,zGEwVi94koOJ
+Banana Smoothie,2016-4-3,smkby8My
+Taro Smoothie,2017-12-30,lGtUi0jx
+Matcha Smoothie,2017-8-11,8tWWzTYt5
+Ice Cream Mlik Tea,2013-10-16,aTIKND7bhis
+Peppermint Jasmine Mlik Tea,2015-12-14,FniSMBcfz
+Banana Mlik Tea,2016-12-23,jZgcKrAkFu9
+Cappuccino Milk Tea,2016-1-10,OvYLAYwMzu
+Papaya Milk Tea,2010-11-24,aawWw1fZuTh
+Red Bean Milk Tea,2017-9-14,7bmMck3g
+Honeydew Milk Tea,2011-11-1,TRoS3Pgfl
+match Milk Tea,2016-6-14,EMknEZrB9
+Pinky,2017-8-5,mVEcv95CnTle
+Mango Mille Crepe,2015-2-17,5UZdGAZyq4Rv
+Matcha Mille Crepe,2018-1-11,gdRKofRMYhF
+Strawberry Pancake,2014-7-22,DcKCGI7t
+Mango Pancake,2011-12-2,CSl8BFJLn
+Banana Pancake,2013-2-3,7S7P3GMZ
+Special Mango Juice Sago,2016-6-14,YCkxDfsw7eZM
+Crispy Popcorn Chicken,2015-11-4,FV6fh8wK
+Fired Squid Ball,2013-9-8,JZILJnl60ys
+Potsticker,2014-10-31,kfEc66OIqS6t
+Taiwanese Sausage,2012-4-27,UvmWAjW6d
+Sweet Potato Fries ,2014-5-24,ggXaoeUtK5
+Fired Okra,2012-1-29,v71SGMLNSh
+Fired String Bean,2017-4-8,OBdNYSL6
+Tater Tots,2018-1-29,HCxOFnhzAy
+Banana Smoothie,2013-2-22,E6mjRmXxsfm
+Taro Smoothie,2010-9-26,e8hHEs9V373X
+Matcha Smoothie,2012-12-23,rm0Q7Te1r
+Ice Cream Mlik Tea,2013-6-19,qHOpZTjWsvbq
+Peppermint Jasmine Mlik Tea,2015-10-10,T1NjF65QMl
+Banana Mlik Tea,2015-4-11,2FK7Gkzs
+Cappuccino Milk Tea,2013-2-5,u7dQqjVza
+Papaya Milk Tea,2010-7-12,dlsXVO23Tpq3
+Red Bean Milk Tea,2018-3-16,h1IIMEGK
+Taro Milk Tea,2013-10-15,6WhmbTlS
+Watermelon Milk Tea,2015-6-13,POxMOrFGTu
+Fired String Bean,2018-2-14,UwfWrpf6q
+Tater Tots,2015-11-18,ZbxFy2boBo
+Banana Smoothie,2014-12-30,BUL6XqxJWj
+Taro Smoothie,2014-5-15,IoKHnRjn0pk
+Matcha Smoothie,2015-7-11,f6Ris5mPr
+Ice Cream Mlik Tea,2017-4-2,F9Ru0Xau9C
+Peppermint Jasmine Mlik Tea,2010-9-20,s2uqdAmB
+Banana Mlik Tea,2015-5-28,WgP1KA7J
+Cappuccino Milk Tea,2016-3-4,VSCBBV3I
+Papaya Milk Tea,2014-9-8,3wATN0Ct
+Red Bean Milk Tea,2015-12-18,LnR7Xxi5a
+Taro Milk Tea,2010-7-2,ZUTXUQjl
+Watermelon Milk Tea,2017-12-30,wHh3j5Cbvc
+Honeydew Milk Tea,2010-10-1,a5eg3k9I6D52
+Banana Pancake,2014-6-18,77ZqSHf4cLyt
+Special Mango Juice Sago,2012-8-28,SYcX7Nux0Hs
+Crispy Popcorn Chicken,2016-9-12,ciOvILcGs
+Fired Squid Ball,2011-1-31,gtc4mKCxyoQ
+Potsticker,2012-8-3,nUvsaUgfU0kJ
+Taiwanese Sausage,2013-12-25,Vqf9rD4D9
+Green Tea,2014-6-15,ZrliCuBQB
+Jasmine Mlik Tea,2014-5-16,ouuAM7k0h84
+Thai Tea,2015-8-11,qeGUbMO3P3
+Mango Green Tea,2014-10-26,9pjzsa5BBrs
+Strawberry Green Tea,2016-9-12,qxmbJBXMjrO
+Peach Green Tea,2015-7-26,IPlrghCLk
+Lychee Green Tea,2011-11-5,aH6xI025T
+Lemon Green Tea,2017-3-14,gocJOrXwU
+Watermelon Green Tea,2014-5-16,4JU4wtjWvD
+Passion Green Tea,2010-6-15,MJPHEBBR
+Vanilla Green Tea,2013-11-17,ODwfk48LG5uo
+Peppermine Tea,2012-1-12,kNEnxhhW
+Salt Cheese Green Tea,2017-9-7,cm8U6Wl5D
+Salt Cheese Black Tea,2011-9-28,SSUZv3BfffBt
+Mango Smoothie,2013-12-22,n15kKo5abp
+Banana Mlik Tea,2011-7-16,KCAflTmK
+Cappuccino Milk Tea,2012-9-8,qLa9wyjfd
+Papaya Milk Tea,2015-3-8,TTHYqKDDh
+Red Bean Milk Tea,2011-1-1,B8iYCSrA
+Taro Milk Tea,2015-2-12,G9XjVvb94
+Watermelon Milk Tea,2013-2-2,yUwQbld3Vh
+Honeydew Milk Tea,2017-1-7,TLigkRUC5
+Banana Pancake,2010-9-2,fFU0ve1tSV
+Special Mango Juice Sago,2015-6-19,6LjCo5CO
+Crispy Popcorn Chicken,2017-6-8,URF3XVz6Eh
+Fired Squid Ball,2012-10-11,WBm6ST432pE
+Potsticker,2017-7-15,ynA1VbFXgUHy
+Honeydew Milk Tea,2016-10-20,MF7x44rFIt
+Banana Pancake,2015-8-6,BLkp6tvAlt
+Special Mango Juice Sago,2010-8-23,rV0c2MQ53v2
+Crispy Popcorn Chicken,2014-3-6,vB2quxKEFQ
+Fired Squid Ball,2012-5-25,xwpipl5i
+Potsticker,2010-6-25,fnls237c
+Taiwanese Sausage,2014-1-4,zxeJPMyLv
+Green Tea,2016-3-4,MHzxv5ZYH6
+Jasmine Mlik Tea,2017-12-8,KyG8pgqqM
+Thai Tea,2011-5-9,345z4oocexu
+Mango Green Tea,2011-6-17,7HFe2fqCYT
+Strawberry Green Tea,2012-11-30,IvLhxckcv6kt
+Peach Green Tea,2013-3-9,hl80hDtQf
+Lychee Green Tea,2017-7-8,Yw33NZGB
+Lemon Green Tea,2010-4-3,swXvtr1s
+Watermelon Green Tea,2018-1-13,wyKZUt2n
+Passion Green Tea,2014-5-17,oCoZC1COyS
+Vanilla Green Tea,2018-3-8,2B6nDA0tp8fg
+Peppermine Tea,2013-8-17,N6jPGIlYlCH6
+Salt Cheese Green Tea,2015-2-5,5Sx5Witei3
+Salt Cheese Black Tea,2011-11-15,zhv48yME7
+Mango Smoothie,2017-3-11,0etgVVCA4B
+Banana Mlik Tea,2012-6-10,R3DwVxkcq
+Cappuccino Milk Tea,2014-7-4,RJBAPWZV
+Papaya Milk Tea,2010-5-25,IYQEvXJF
+Red Bean Milk Tea,2010-9-16,sGxo9Tglud
+Taro Milk Tea,2010-8-2,6PrQE9zaPzb4
+Watermelon Milk Tea,2015-11-29,aeBy03fGg
+Honeydew Milk Tea,2013-8-29,DcKCGI7t
+Banana Pancake,2013-7-20,77ZqSHf4cLyt
+Special Mango Juice Sago,2014-2-13,SYcX7Nux0Hs
+Crispy Popcorn Chicken,2013-2-24,ciOvILcGs
+Fired Squid Ball,2014-5-12,gtc4mKCxyoQ
+Potsticker,2013-7-28,nUvsaUgfU0kJ
+Taiwanese Sausage,2011-7-28,Vqf9rD4D9
+Green Tea,2013-10-11,ZrliCuBQB
+Jasmine Mlik Tea,2011-9-30,ouuAM7k0h84
+Thai Tea,2013-9-23,qeGUbMO3P3
+Mango Green Tea,2015-12-18,9pjzsa5BBrs
+Strawberry Green Tea,2012-3-16,qxmbJBXMjrO
+Peach Green Tea,2014-6-5,IPlrghCLk
+Lychee Green Tea,2017-8-12,aH6xI025T
+Lemon Green Tea,2012-11-28,gocJOrXwU
+Watermelon Green Tea,2011-3-29,4JU4wtjWvD
+Passion Green Tea,2015-11-18,MJPHEBBR
+Vanilla Green Tea,2014-12-9,3QjYizbjET
+Red Bean Milk Tea,2010-12-16,hq2HykqT
+Taro Milk Tea,2018-3-17,uvKOx1bU
+Watermelon Milk Tea,2014-2-19,tV19mqT3xFiY
+Honeydew Milk Tea,2016-3-11,t23In7YcqiuQ
+Banana Pancake,2016-6-12,vNVB7CYUk
+Special Mango Juice Sago,2017-12-19,AkzCOt0Q9eqD
+Crispy Popcorn Chicken,2013-5-14,nfMEVtvVB2
+Fired Squid Ball,2010-10-27,OKrIcPYU
+Potsticker,2015-8-15,UI9xSLPA
+Honeydew Milk Tea,2013-4-15,8RZ2TjTK
+Banana Pancake,2017-7-29,s3iYIeMlE
+Special Mango Juice Sago,2012-7-26,T13ZBVPGpHg
+Crispy Popcorn Chicken,2013-4-24,ZKwUr0dxBK
+Fired Squid Ball,2011-6-13,zJ4hSvSzZ
+Potsticker,2017-5-19,Zxexse9cHnrr
+Taiwanese Sausage,2013-2-28,CUR2Bnnub
+Green Tea,2010-5-27,WGkEX1C4k3m3
+Jasmine Mlik Tea,2012-9-1,xmBMumJ4
+Thai Tea,2015-12-14,C8cZKkrihW
+Mango Green Tea,2011-6-14,86iLG6TG2E
+Strawberry Green Tea,2013-5-17,LpCRZk5B
+Peach Green Tea,2012-12-2,apWYOrGjYCz2
+Lychee Green Tea,2015-3-31,XheKLDLSfyu
+Lemon Green Tea,2015-1-4,0i8ApmUAPz
+Watermelon Green Tea,2014-9-26,Hmq8cEK47
+Passion Green Tea,2010-11-8,8BQrtajFKBvM
+Vanilla Green Tea,2013-5-16,enN09EKW9i
+Peppermine Tea,2017-9-16,2b2ZIL5NOn
+Salt Cheese Green Tea,2010-8-13,1wTGWpVyiCW8
+Salt Cheese Black Tea,2013-12-27,Ry5UW49Y
+Mango Smoothie,2015-8-11,ONkyHnRpPBc
+Banana Mlik Tea,2015-3-20,De8MBWQE6
+Cappuccino Milk Tea,2011-10-30,tlAdTzzxB
+Papaya Milk Tea,2017-2-5,27dfLWfcy
+Peppermine Tea,2011-7-17,xJlk6VhCTWDi
+Salt Cheese Green Tea,2011-3-31,RGkP1ZOC
+Salt Cheese Black Tea,2016-9-23,lJVo2WOKY2J
+Mango Smoothie,2011-7-18,gltIexwhMb
+Banana Mlik Tea,2011-3-5,9qLvmm7ZkeS1
+Cappuccino Milk Tea,2010-6-17,3qTfUbzSqa9
+Papaya Milk Tea,2016-8-18,Z0XJdAprwT
+Red Bean Milk Tea,2014-8-25,EUy2eKb8
+Taro Milk Tea,2011-3-29,j29UIRVdg
+Watermelon Milk Tea,2013-3-7,1hRehleJT
+Honeydew Milk Tea,2017-3-20,SZHiAmaoRY
+Banana Pancake,2010-6-25,B3pnwtbfGwOw
+Special Mango Juice Sago,2011-10-29,jaet13WMy9z
+Crispy Popcorn Chicken,2014-10-8,13iA2rdG1
+Fired Squid Ball,2014-2-18,KOmQx6bTV8
+Potsticker,2016-4-26,vf7Xed3m
+Taiwanese Sausage,2010-4-19,sEta54h44q
+Green Tea,2016-3-14,2FtwGz1w
+Jasmine Mlik Tea,2010-4-7,IiexuLEsJ
+Thai Tea,2015-10-2,mrG2gwJPo
+Mango Green Tea,2016-12-3,Bs5UJ5ihih
+Strawberry Green Tea,2016-7-17,rRQBWNdr
+Peach Green Tea,2017-5-24,7UrzrSyxF
+Lychee Green Tea,2014-11-21,6r1RfIgicOu
+Lemon Green Tea,2011-11-26,N9Jc8QQax
+Watermelon Green Tea,2010-4-15,d79vlvdYzlv4
+Passion Green Tea,2010-9-16,eMblHC2f
+Vanilla Green Tea,2013-4-2,5svtpzR11omv
+Red Bean Milk Tea,2013-7-14,Z0EezkYx
+Taro Milk Tea,2017-3-2,vYs5ItuFJWH
+Watermelon Milk Tea,2016-6-26,FQGGyuv6wqX
+Honeydew Milk Tea,2012-11-28,X2s2n0dxls
+Banana Pancake,2010-12-15,AksI0hyhjS
+Special Mango Juice Sago,2016-9-20,6iiBi8OLWa
+Crispy Popcorn Chicken,2015-4-18,LPgjlpMy7u
+Fired Squid Ball,2013-2-26,ip8H35sk9
+Potsticker,2017-5-30,lBKCSPPXoA
+Honeydew Milk Tea,2017-3-12,Pr1JMwTv3J
+Banana Pancake,2015-9-4,59MLyddacTR
+Special Mango Juice Sago,2014-5-23,5ET1FGHx
+Crispy Popcorn Chicken,2016-5-4,QTO5rvK8c
+Fired Squid Ball,2013-6-8,8neIkbSzdZ
+Salt Cheese Green Tea,2015-8-7,zaq2NjdVTH
+Salt Cheese Black Tea,2015-2-17,8MEssP3oC
+Mango Green Tea,2015-6-12,3z150BNff2Z
+Strawberry Green Tea,2018-3-2,y8tbhTSLZC
+Peach Green Tea,2014-2-24,jx5w7oY1
+Lychee Green Tea,2014-12-17,LMCbya32jr
+Lemon Green Tea,2016-10-20,U3Zx0wy2zlZe
+Watermelon Green Tea,2012-10-22,BF2mEpFLRvNP
+Passion Green Tea,2010-11-8,XsIj69h3w
+Vanilla Green Tea,2013-1-9,USxAq6YP97S
+Peppermine Tea,2014-6-13,QRUVwMwIf
+Salt Cheese Green Tea,2014-1-25,mOGrQxuCdo
+Salt Cheese Black Tea,2011-7-4,gkOJLDSuzvpa
+Mango Smoothie,2012-12-17,FA34FMYNmXZ
+Strawberry Smoothie,2016-4-13,WhjNadYCRcit
+Strawberry Smoothie,2010-10-27,vViZqDBky
+Avocado Smoothie,2014-12-19,l5teVFCTmH
+Banana Smoothie,2014-7-22,oWPWSj53Fd
+Taro Smoothie,2010-12-20,FomSw3qN
+Matcha Smoothie,2012-6-24,sizdnTiAw
+Ice Cream Mlik Tea,2017-5-3,t0hGEHC1
+Peppermint Jasmine Mlik Tea,2018-2-7,RhZcFqa3cGv
+Banana Mlik Tea,2010-6-12,7sPfFi70q4
+Cappuccino Milk Tea,2016-9-9,oNKVhFht
+Papaya Milk Tea,2013-12-17,InxrVx2dalO1
+Red Bean Milk Tea,2013-7-1,oattrR3L
+Honeydew Milk Tea,2010-12-28,dSfkuYLBi5t
+match Milk Tea,2015-6-15,oWkRq1eP96X
+Pinky,2014-3-3,BBaOU448XX5Q
+Mango Mille Crepe,2012-1-31,x528rU7pgzHk
+Matcha Mille Crepe,2018-3-23,OS7lejl514
+Strawberry Pancake,2013-12-19,VSCXBESIstZI
+Mango Pancake,2016-3-31,ydEi56XU
+Banana Pancake,2013-12-10,lLqfMs9hVYR0
+Special Mango Juice Sago,2014-3-30,yofkgSmk
+Crispy Popcorn Chicken,2012-2-4,PZRi5v1X4F6
+Fired Squid Ball,2017-1-22,BD3KPcZrzV
+Potsticker,2017-11-5,wyxmZcxK7X
+Taiwanese Sausage,2012-2-4,PXEco0vPkH
+Sweet Potato Fries ,2018-3-5,nlG5c3l3
+Fired Okra,2011-11-5,qYVuBu4EeWt
+Fired String Bean,2016-2-15,7Jl2l8d9vG7
+Tater Tots,2015-12-9,Y0WLW0NUgsSt
+Banana Smoothie,2012-12-25,19Z9HiIl6NU8
+Taro Smoothie,2015-1-30,xRB5OPdW
+Matcha Smoothie,2011-11-14,gvFbde4oVDe9
+Ice Cream Mlik Tea,2016-12-19,AXpLyPer
+Peppermint Jasmine Mlik Tea,2013-12-17,xO3pxlv0wEek
+Banana Mlik Tea,2010-12-24,6mEllaCs
+Cappuccino Milk Tea,2011-5-9,8o6QzHcf4B
+Papaya Milk Tea,2016-9-10,IFxHSttb
+Red Bean Milk Tea,2014-5-10,2wgPvh2vK
+Taro Milk Tea,2014-1-18,b8zHbpTlyv6u
+Watermelon Milk Tea,2016-2-28,CBqzrtzqKk
+Fired String Bean,2017-5-12,cWmcTxE7
+Tater Tots,2012-11-3,9jBJnXyrT
+Banana Smoothie,2014-3-30,t9dHIuAVZh
+Taro Smoothie,2011-8-21,fuwImBYH
+Matcha Smoothie,2017-6-12,cfCG1WHqK
+Ice Cream Mlik Tea,2014-2-20,fPdAe7jLuCQO
+Peppermint Jasmine Mlik Tea,2017-9-16,Lp7O5iSi
+Banana Mlik Tea,2012-4-24,iXUglb35Z
+Cappuccino Milk Tea,2010-9-19,lbhCWxOsnJ
+Papaya Milk Tea,2010-7-18,vcOFta61dV
+Red Bean Milk Tea,2016-8-17,pp8Ja1hmq
+Taro Milk Tea,2013-6-1,NbpfaZ5GM904
+Watermelon Milk Tea,2018-2-9,NypeYVhBgYK8
+Honeydew Milk Tea,2011-11-12,oHASVmGvovTf
+Banana Pancake,2010-9-8,RrrmWCBMIU
+Special Mango Juice Sago,2010-5-15,uLlBofXYHLfN
+Crispy Popcorn Chicken,2010-8-14,xrWVnXKk
+Fired Squid Ball,2016-12-27,IKHf7WPN3
+Potsticker,2013-9-22,VS4hId7gaq
+Taiwanese Sausage,2013-1-21,lIALMAJN4KQ
+Green Tea,2016-10-13,cSyaK83HCla0
+Jasmine Mlik Tea,2014-6-28,NXUpy9NDj
+Thai Tea,2016-7-10,HllFOoYb
+Mango Green Tea,2014-10-21,6Uq9YgNKozlS
+Strawberry Green Tea,2013-9-5,EvWbLkuZtvx
+Peach Green Tea,2013-12-8,K708ayr8p
+Lychee Green Tea,2012-5-20,qZY31hKw
+Lemon Green Tea,2017-7-23,vR64BafByJ
+Watermelon Green Tea,2016-4-11,XsdMKrp8vK
+Passion Green Tea,2016-2-16,h2BpHSsA
+Vanilla Green Tea,2017-12-23,2bWTI0os
+Peppermine Tea,2016-4-30,FyI2auMy8
+Salt Cheese Green Tea,2017-11-20,FcPlE9Xd8M9
+Salt Cheese Black Tea,2017-5-7,Jp1oG3ts
+Mango Smoothie,2018-1-14,IO4dyBBC
+Banana Mlik Tea,2012-1-12,mn35E9LIYDdu
+Cappuccino Milk Tea,2014-9-24,TOqZ6ctkEI
+Papaya Milk Tea,2017-10-8,9zhjTBjj
+Red Bean Milk Tea,2016-12-27,KC3NRQ7g8yNm
+Taro Milk Tea,2011-12-10,9DakevOc
+Watermelon Milk Tea,2014-3-17,hSnaIvmlLT
+Honeydew Milk Tea,2015-6-16,pikZlqmuK
+Banana Pancake,2013-1-26,bWSyP3IZz
+Special Mango Juice Sago,2015-6-30,eQF6lCCTcSr
+Crispy Popcorn Chicken,2015-2-16,tMDhXH5qlE
+Fired Squid Ball,2010-12-29,VB9geHtX
+Potsticker,2017-7-11,En5e295r
+Honeydew Milk Tea,2017-11-2,k3XzcmWr
+Banana Pancake,2011-3-18,WRTIZRQHYdR
+Special Mango Juice Sago,2011-8-12,3LL3SoX0dCu
+Crispy Popcorn Chicken,2014-6-23,ZrcCCRN7M
+Fired Squid Ball,2014-6-25,1zNzLI4vCM28
+Potsticker,2010-6-21,pmr9B4l1lI
+Taiwanese Sausage,2011-9-12,SUS1gdmwpf
+Green Tea,2012-7-26,8BQSZ6Iok
+Matcha Smoothie,2017-8-12,v81IXRDt
+Ice Cream Mlik Tea,2010-6-25,6qDCr3Kx
+Peppermint Jasmine Mlik Tea,2010-12-6,UGBrzKFvGZu
+Banana Mlik Tea,2013-1-6,x3ikqBiVmiq
+Cappuccino Milk Tea,2014-1-9,CBaX4cwu
+Papaya Milk Tea,2015-5-30,v6Q1SAtoQ7s1
+Red Bean Milk Tea,2015-11-23,7xogogkxAj
+Honeydew Milk Tea,2010-8-6,T4BbBTe2
+match Milk Tea,2014-5-26,ELv1aFYFbB
+Banana Mlik Tea,2012-8-20,px034ggQR
+Cappuccino Milk Tea,2015-9-25,m6SxSebJ88Gl
+Papaya Milk Tea,2014-4-25,s9pGov7wnB
+Red Bean Milk Tea,2015-7-14,00KE5mv94p6r
+Taro Milk Tea,2017-1-24,PvJN2tXNJcf
+Watermelon Milk Tea,2015-8-7,6cc8b7zmvES
+Fired String Bean,2010-10-10,mp9HDcEQAp
+Tater Tots,2013-5-14,yj2qaGwC
+Banana Smoothie,2015-9-14,hAvBpnBWqsu
+Taro Smoothie,2016-11-18,s5bLFI8zbkv
+Matcha Smoothie,2011-12-27,Xsm41JdOvw
+Ice Cream Mlik Tea,2013-1-30,uWdeNGlj47
+Peppermint Jasmine Mlik Tea,2015-11-29,GWzblpq1tQCs
+Banana Mlik Tea,2014-10-31,ouurCvSv
+Cappuccino Milk Tea,2014-3-1,yAjUzWEi
+Papaya Milk Tea,2011-3-17,l80fqd3M5A
+Red Bean Milk Tea,2017-8-26,bBS8uusMMww
+Taro Milk Tea,2017-12-22,oOZeNdk3Ar5
+Watermelon Milk Tea,2013-3-30,XCH9vtvq
+Honeydew Milk Tea,2013-9-12,WLi63LjFIS
+Banana Pancake,2017-5-27,wg4HtkEfnn
+Special Mango Juice Sago,2011-10-15,U1lZR57psUj8
+Crispy Popcorn Chicken,2016-3-29,zPEbyN1Q
+Fired Squid Ball,2015-1-22,xnDkkiYRCm94
+Potsticker,2012-11-2,Yklrcw5d0Wl
+Taiwanese Sausage,2011-6-23,LJDfX2Xj
+Green Tea,2015-2-22,GDoNbUJf
+Jasmine Mlik Tea,2017-1-30,9SgAC8FjIKrV
+Thai Tea,2013-3-14,LQKnn45b
+Mango Green Tea,2011-3-3,vXhLkPjTPag
+Strawberry Green Tea,2015-12-27,npQllIVcoca
+Peach Green Tea,2011-6-13,2WBcA1OmTtu
+Lychee Green Tea,2014-3-15,tF6dIFTO
+Lemon Green Tea,2011-10-13,ju3qRHPrEi
+Watermelon Green Tea,2015-11-2,SH3wvDI9nkd
+Passion Green Tea,2012-5-21,odDBNZ2jnXY
+Vanilla Green Tea,2016-9-25,JbeoMckE0gr
+Peppermine Tea,2012-10-3,MMXbifUPJ
+Salt Cheese Green Tea,2014-11-1,EfbrpnXZ816C
+Salt Cheese Black Tea,2015-10-12,1KwXcpAA05ix
+Mango Smoothie,2014-11-23,BNOGZVoS
+Strawberry Smoothie,2012-4-14,aXAobiQdL3
+Strawberry Smoothie,2011-1-15,pf1VirCiPN
+Avocado Smoothie,2011-7-18,AeN61gy24a
+Banana Smoothie,2011-11-27,jvA3ufXYW
+Taro Smoothie,2012-3-14,fjfQbu3OQ
+Matcha Smoothie,2012-10-2,6g9uLrIXo
+Ice Cream Mlik Tea,2014-11-11,F7nnQ61j
+Peppermint Jasmine Mlik Tea,2013-3-27,7syzlGmxaL
+Banana Mlik Tea,2015-6-6,d6CIVnwHY
+Cappuccino Milk Tea,2016-1-24,LnzPJhrtLM
+Papaya Milk Tea,2012-8-27,o8lEbmKr
+Red Bean Milk Tea,2011-9-15,thFRYkbAq
+Honeydew Milk Tea,2012-2-15,JkcjuSb9yKG
+match Milk Tea,2010-10-14,niWjZ4hgH
+Pinky,2017-1-26,MVBFepuxOWO
+Mango Mille Crepe,2010-9-13,RpaJ9Xf1I6
+Matcha Mille Crepe,2014-10-26,K5APrKnVSi
+Strawberry Pancake,2011-8-20,KXj3WCGD
+Mango Pancake,2013-1-5,mkStpkLrR2xj
+Banana Pancake,2017-7-9,TTvfUbHXA
+Special Mango Juice Sago,2011-6-30,K0TjIwoPzSA
+Crispy Popcorn Chicken,2015-3-27,vHob7BlM
+Fired Squid Ball,2010-8-8,uugSdYhiABxP
+Potsticker,2014-9-29,UcBJSUvM2M
+Taiwanese Sausage,2010-5-29,XhMOBDFLMfo
+Sweet Potato Fries ,2017-10-30,N3UTW5pz
+Fired Okra,2017-4-5,g7PoagevS8
+Fired String Bean,2015-12-4,RPCAZYGneYU
+Tater Tots,2015-5-19,LCCcAzEtqU
+Banana Smoothie,2016-11-17,05AQUjuK7HVz
+Taro Smoothie,2016-6-2,2kFcQdXxf
+Matcha Smoothie,2016-4-1,aOSNL8ZK1VD
+Ice Cream Mlik Tea,2011-10-21,ljhcV84H
+Peppermint Jasmine Mlik Tea,2014-5-10,lBGoizo5u
+Banana Mlik Tea,2012-3-23,dHf0d13Gar
+Cappuccino Milk Tea,2015-9-25,3cLxWUEQuC3g
+Papaya Milk Tea,2013-1-10,Jv1Bj5UakI
+Red Bean Milk Tea,2016-6-12,kwBSJ87q
+Taro Milk Tea,2016-5-13,1TezS8x98yZ0
+Watermelon Milk Tea,2017-5-16,A50fKIuQOV
+Fired String Bean,2010-8-30,rO4MnPgBY
+Tater Tots,2011-7-13,67DVpBrR41MX
+Banana Smoothie,2017-12-24,JJQH1UwJ
+Taro Smoothie,2018-1-27,C15MyCoNy
+Matcha Smoothie,2010-5-25,b43R4bOIe
+Ice Cream Mlik Tea,2017-8-17,JdgOYEU0
+Peppermint Jasmine Mlik Tea,2011-1-6,EN467If3Sd
+Banana Mlik Tea,2011-7-23,svkdm7NWd
+Cappuccino Milk Tea,2017-4-24,QR3SIrPHU
+Papaya Milk Tea,2018-3-3,vjfMyoaJIryq
+Red Bean Milk Tea,2014-8-6,a2AYeDa26g
+Taro Milk Tea,2014-4-22,7B0cfRpQnMNW
+Watermelon Milk Tea,2013-2-1,zGEwVi94koOJ
+Honeydew Milk Tea,2014-11-25,smkby8My
+Banana Pancake,2015-10-18,lGtUi0jx
+Special Mango Juice Sago,2011-7-16,8tWWzTYt5
+Crispy Popcorn Chicken,2010-7-15,aTIKND7bhis
+Fired Squid Ball,2014-9-6,FniSMBcfz
+Potsticker,2018-3-25,jZgcKrAkFu9
+Taiwanese Sausage,2012-7-13,OvYLAYwMzu
+Green Tea,2017-9-30,aawWw1fZuTh
+Jasmine Mlik Tea,2013-7-9,7bmMck3g
+Thai Tea,2013-11-1,TRoS3Pgfl
+Mango Green Tea,2015-1-21,EMknEZrB9
+Strawberry Green Tea,2011-8-10,mVEcv95CnTle
+Peach Green Tea,2017-9-17,5UZdGAZyq4Rv
+Lychee Green Tea,2013-12-13,gdRKofRMYhF
+Lemon Green Tea,2015-6-25,DcKCGI7t
+Watermelon Green Tea,2015-12-22,CSl8BFJLn
+Passion Green Tea,2016-10-30,7S7P3GMZ
+Vanilla Green Tea,2014-3-16,YCkxDfsw7eZM
+Peppermine Tea,2016-2-10,FV6fh8wK
+Salt Cheese Green Tea,2015-7-25,JZILJnl60ys
+Salt Cheese Black Tea,2012-7-6,kfEc66OIqS6t
+Mango Smoothie,2014-12-13,UvmWAjW6d
+Banana Mlik Tea,2010-7-25,ggXaoeUtK5
+Cappuccino Milk Tea,2016-10-4,v71SGMLNSh
+Papaya Milk Tea,2014-4-18,OBdNYSL6
+Red Bean Milk Tea,2013-12-12,HCxOFnhzAy
+Taro Milk Tea,2011-7-9,E6mjRmXxsfm
+Watermelon Milk Tea,2010-10-20,e8hHEs9V373X
+Honeydew Milk Tea,2011-6-4,rm0Q7Te1r
+Banana Pancake,2015-7-30,qHOpZTjWsvbq
+Special Mango Juice Sago,2010-11-23,T1NjF65QMl
+Crispy Popcorn Chicken,2015-6-18,2FK7Gkzs
+Fired Squid Ball,2013-6-21,u7dQqjVza
+Potsticker,2016-7-10,dlsXVO23Tpq3
+Honeydew Milk Tea,2010-7-27,h1IIMEGK
+Banana Pancake,2015-12-28,6WhmbTlS
+Special Mango Juice Sago,2010-8-28,POxMOrFGTu
+Crispy Popcorn Chicken,2015-10-16,UwfWrpf6q
+Fired Squid Ball,2011-12-30,ZbxFy2boBo
+Potsticker,2015-5-28,BUL6XqxJWj
+Taiwanese Sausage,2017-3-19,IoKHnRjn0pk
+Green Tea,2013-2-23,f6Ris5mPr
+Jasmine Mlik Tea,2017-7-8,F9Ru0Xau9C
+Thai Tea,2017-4-21,s2uqdAmB
+Mango Green Tea,2011-9-26,WgP1KA7J
+Strawberry Green Tea,2016-7-11,VSCBBV3I
+Peach Green Tea,2011-1-20,3wATN0Ct
+Lychee Green Tea,2018-1-25,LnR7Xxi5a
+Lemon Green Tea,2017-5-21,ZUTXUQjl
+Watermelon Green Tea,2011-7-29,wHh3j5Cbvc
+Passion Green Tea,2014-10-1,a5eg3k9I6D52
+Vanilla Green Tea,2011-2-9,77ZqSHf4cLyt
+Peppermine Tea,2011-10-31,SYcX7Nux0Hs
+Salt Cheese Green Tea,2015-7-17,ciOvILcGs
+Salt Cheese Black Tea,2013-6-12,gtc4mKCxyoQ
+Mango Smoothie,2011-12-8,nUvsaUgfU0kJ
+Banana Mlik Tea,2014-5-25,Vqf9rD4D9
+Cappuccino Milk Tea,2014-11-9,ZrliCuBQB
+Papaya Milk Tea,2016-5-23,ouuAM7k0h84
+Red Bean Milk Tea,2015-1-3,qeGUbMO3P3
+Taro Milk Tea,2013-4-11,9pjzsa5BBrs
+Watermelon Milk Tea,2011-3-17,qxmbJBXMjrO
+Honeydew Milk Tea,2017-4-30,IPlrghCLk
+Banana Pancake,2016-1-25,aH6xI025T
+Special Mango Juice Sago,2017-10-15,gocJOrXwU
+Crispy Popcorn Chicken,2014-8-9,4JU4wtjWvD
+Fired Squid Ball,2016-2-1,MJPHEBBR
+Potsticker,2016-5-14,3QjYizbjET
+Taiwanese Sausage,2016-7-27,hq2HykqT
+Green Tea,2015-11-18,uvKOx1bU
+Jasmine Mlik Tea,2017-2-6,tV19mqT3xFiY
+Thai Tea,2012-4-23,t23In7YcqiuQ
+Mango Green Tea,2017-3-10,vNVB7CYUk
+Strawberry Green Tea,2017-4-17,AkzCOt0Q9eqD
+Peach Green Tea,2014-10-18,nfMEVtvVB2
+Lychee Green Tea,2013-4-25,OKrIcPYU
+Lemon Green Tea,2011-2-8,UI9xSLPA
+Watermelon Green Tea,2010-4-7,8RZ2TjTK
+Passion Green Tea,2012-6-21,s3iYIeMlE
+Vanilla Green Tea,2010-5-2,T13ZBVPGpHg
+Red Bean Milk Tea,2010-12-5,ZKwUr0dxBK
+Taro Milk Tea,2012-2-10,zJ4hSvSzZ
+Watermelon Milk Tea,2012-5-21,Zxexse9cHnrr
+Honeydew Milk Tea,2017-4-1,nKdyrZRS
+Banana Pancake,2011-12-20,qJjMAn3rAj0z
+Special Mango Juice Sago,2012-5-25,LngoAy4AIb89
+Crispy Popcorn Chicken,2011-12-26,Cb2yEpoP4Jlw
+Fired Squid Ball,2011-5-24,47XgkoU8
+Potsticker,2013-7-16,jY5sB5OPZs
+Honeydew Milk Tea,2014-12-10,U1f2fGFT6FFj
+Banana Pancake,2016-9-23,Tm3fOMTHmJa
+Special Mango Juice Sago,2015-11-23,0a5tXH8e7g1
+Crispy Popcorn Chicken,2016-12-30,veHjEipbqsB
+Fired Squid Ball,2012-9-25,F1qnHb12Z
+Potsticker,2013-9-8,EafNSi8A
+Taiwanese Sausage,2014-12-3,zkIa3e31
+Green Tea,2013-6-30,V4sVqkGmrn
+Jasmine Mlik Tea,2012-12-8,G5zxHKOarubn
+Thai Tea,2014-3-3,YZBE10ggvGx
+Mango Green Tea,2017-12-9,ZLP6SWfspV
+Strawberry Green Tea,2016-6-27,pnA0OJzibp8
+Peach Green Tea,2016-11-16,AUiPxEwWS
+Lychee Green Tea,2011-10-23,8b0x3wRiv2R
+Lemon Green Tea,2013-12-15,sH7SMEWcjig
+Watermelon Green Tea,2014-6-3,1pacK04x4I
+Passion Green Tea,2012-4-16,Bk3rwvuM
+Vanilla Green Tea,2015-2-11,Sqx6us40yKc
+Peppermine Tea,2014-4-2,BhV2saMhzj
+Salt Cheese Green Tea,2013-9-24,ECRYJHIYEddt
+Salt Cheese Black Tea,2015-6-25,JMlb7h81i0
+Mango Smoothie,2016-3-15,RMBVhTKwmB
+Banana Mlik Tea,2015-6-12,yLFo8LJD
+Cappuccino Milk Tea,2015-1-20,LuzpJXlcuoFW
+Papaya Milk Tea,2017-8-31,kh1PNXVY837c
+Peppermine Tea,2010-6-28,icFj4QiU
+Salt Cheese Green Tea,2012-10-12,9EyPyEJWOUar
+Salt Cheese Black Tea,2016-10-2,pmjdakoHv3IA
+Mango Smoothie,2014-11-16,5DDM6GPfW
+Banana Mlik Tea,2017-4-19,4B1sfTGE
+Cappuccino Milk Tea,2011-6-10,jphV9nGH1k
+Papaya Milk Tea,2017-4-15,8nfQ2byoD
+Red Bean Milk Tea,2013-11-11,Lo9ukj1R
+Taro Milk Tea,2012-12-1,nAlVNmx8Mh
+Watermelon Milk Tea,2018-1-26,L3qJmUyrVPSc
+Honeydew Milk Tea,2011-6-10,n1dqaYiWd
+Banana Pancake,2015-12-1,JnyptVgtTs
+Special Mango Juice Sago,2015-5-27,3D2x0yh9Ch9
+Crispy Popcorn Chicken,2013-3-31,Sy3o50bL
+Fired Squid Ball,2017-7-3,KGIxPyoB
+Potsticker,2014-4-5,g7PoagevS8
+Taiwanese Sausage,2014-4-28,RPCAZYGneYU
+Green Tea,2012-7-4,LCCcAzEtqU
+Jasmine Mlik Tea,2016-6-5,05AQUjuK7HVz
+Thai Tea,2014-8-6,2kFcQdXxf
+Mango Green Tea,2011-2-1,aOSNL8ZK1VD
+Strawberry Green Tea,2014-7-5,ljhcV84H
+Peach Green Tea,2010-7-19,lBGoizo5u
+Lychee Green Tea,2010-7-4,dHf0d13Gar
+Lemon Green Tea,2013-10-17,3cLxWUEQuC3g
+Watermelon Green Tea,2014-4-24,Jv1Bj5UakI
+Passion Green Tea,2017-12-18,kwBSJ87q
+Vanilla Green Tea,2011-12-30,1TezS8x98yZ0
+Red Bean Milk Tea,2015-6-21,A50fKIuQOV
+Taro Milk Tea,2015-5-1,rO4MnPgBY
+Watermelon Milk Tea,2013-8-1,67DVpBrR41MX
+Honeydew Milk Tea,2012-1-17,JJQH1UwJ
+Banana Pancake,2015-6-23,C15MyCoNy
+Special Mango Juice Sago,2017-4-1,b43R4bOIe
+Crispy Popcorn Chicken,2017-1-25,JdgOYEU0
+Fired Squid Ball,2015-1-7,EN467If3Sd
+Potsticker,2013-2-22,svkdm7NWd
+Honeydew Milk Tea,2017-5-19,QR3SIrPHU
+Banana Pancake,2015-2-6,vjfMyoaJIryq
+Special Mango Juice Sago,2013-12-30,a2AYeDa26g
+Crispy Popcorn Chicken,2010-4-1,7B0cfRpQnMNW
+Fired Squid Ball,2011-2-26,zGEwVi94koOJ
+Salt Cheese Green Tea,2015-3-31,smkby8My
+Salt Cheese Black Tea,2011-7-9,lGtUi0jx
+Mango Smoothie,2012-7-30,8tWWzTYt5
+Banana Mlik Tea,2014-2-2,aTIKND7bhis
+Cappuccino Milk Tea,2012-5-27,FniSMBcfz
+Papaya Milk Tea,2013-11-26,jZgcKrAkFu9
+Peppermine Tea,2013-1-7,OvYLAYwMzu
+Salt Cheese Green Tea,2012-4-26,aawWw1fZuTh
+Salt Cheese Black Tea,2015-1-20,7bmMck3g
+Fired Squid Ball,2017-4-28,TRoS3Pgfl
+Potsticker,2016-9-17,EMknEZrB9
+Taiwanese Sausage,2017-12-8,mVEcv95CnTle
+Green Tea,2014-11-4,5UZdGAZyq4Rv
+Jasmine Mlik Tea,2015-11-24,gdRKofRMYhF
+Thai Tea,2013-5-9,DcKCGI7t
+Mango Green Tea,2010-8-25,CSl8BFJLn
+Strawberry Green Tea,2017-10-10,7S7P3GMZ
+Peach Green Tea,2014-8-30,YCkxDfsw7eZM
+Lychee Green Tea,2012-8-4,FV6fh8wK
+Lemon Green Tea,2016-10-26,JZILJnl60ys
+Watermelon Green Tea,2012-1-3,kfEc66OIqS6t
+Passion Green Tea,2010-10-18,UvmWAjW6d
+Vanilla Green Tea,2011-4-10,ggXaoeUtK5
+Peppermine Tea,2014-10-21,v71SGMLNSh
+Salt Cheese Green Tea,2010-7-11,OBdNYSL6
+Salt Cheese Black Tea,2011-8-3,HCxOFnhzAy
+Mango Smoothie,2016-10-11,E6mjRmXxsfm
+Banana Mlik Tea,2017-8-18,e8hHEs9V373X
+Cappuccino Milk Tea,2012-4-13,rm0Q7Te1r
+Papaya Milk Tea,2010-9-13,qHOpZTjWsvbq
+Red Bean Milk Tea,2015-12-24,T1NjF65QMl
+Taro Milk Tea,2018-3-10,2FK7Gkzs
+Watermelon Milk Tea,2017-1-10,u7dQqjVza
+Honeydew Milk Tea,2013-11-5,dlsXVO23Tpq3
+Banana Pancake,2015-4-27,h1IIMEGK
+Special Mango Juice Sago,2016-12-22,6WhmbTlS
+Crispy Popcorn Chicken,2010-12-12,POxMOrFGTu
+Fired Squid Ball,2010-7-21,UwfWrpf6q
+Potsticker,2015-4-16,ZbxFy2boBo
+Honeydew Milk Tea,2014-12-1,BUL6XqxJWj
+Banana Pancake,2016-5-13,IoKHnRjn0pk
+Special Mango Juice Sago,2014-10-16,f6Ris5mPr
+Crispy Popcorn Chicken,2015-2-4,F9Ru0Xau9C
+Fired Squid Ball,2013-2-20,s2uqdAmB
+Potsticker,2013-2-16,WgP1KA7J
+Taiwanese Sausage,2015-4-11,VSCBBV3I
+Green Tea,2013-7-24,3wATN0Ct
+Matcha Smoothie,2012-10-4,LnR7Xxi5a
+Ice Cream Mlik Tea,2015-12-22,ZUTXUQjl
+Peppermint Jasmine Mlik Tea,2014-11-7,wHh3j5Cbvc
+Banana Mlik Tea,2017-4-13,a5eg3k9I6D52
+Cappuccino Milk Tea,2015-4-11,77ZqSHf4cLyt
+Papaya Milk Tea,2014-12-6,SYcX7Nux0Hs
+Red Bean Milk Tea,2016-12-9,ciOvILcGs
+Honeydew Milk Tea,2013-11-24,gtc4mKCxyoQ
+match Milk Tea,2016-2-12,nUvsaUgfU0kJ
+Banana Mlik Tea,2015-3-10,Vqf9rD4D9
+Cappuccino Milk Tea,2012-1-22,ZrliCuBQB
+Papaya Milk Tea,2013-9-23,ouuAM7k0h84
+Red Bean Milk Tea,2015-11-11,qeGUbMO3P3
+Taro Milk Tea,2015-12-8,9pjzsa5BBrs
+Watermelon Milk Tea,2016-7-24,qxmbJBXMjrO
+Fired String Bean,2014-5-28,IPlrghCLk
+Tater Tots,2017-12-23,aH6xI025T
+Banana Smoothie,2013-7-30,gocJOrXwU
+Taro Smoothie,2011-3-23,4JU4wtjWvD
+Matcha Smoothie,2013-1-12,MJPHEBBR
+Ice Cream Mlik Tea,2014-7-8,ODwfk48LG5uo
+Peppermint Jasmine Mlik Tea,2010-6-16,kNEnxhhW
+Banana Mlik Tea,2011-1-3,cm8U6Wl5D
+Cappuccino Milk Tea,2010-4-10,SSUZv3BfffBt
+Papaya Milk Tea,2018-1-16,n15kKo5abp
+Red Bean Milk Tea,2012-5-24,KCAflTmK
+Taro Milk Tea,2013-3-21,qLa9wyjfd
+Watermelon Milk Tea,2017-2-9,TTHYqKDDh
+Honeydew Milk Tea,2015-2-7,B8iYCSrA
+Banana Pancake,2010-10-4,G9XjVvb94
+Special Mango Juice Sago,2011-7-27,yUwQbld3Vh
+Crispy Popcorn Chicken,2011-7-5,TLigkRUC5
+Fired Squid Ball,2013-11-15,fFU0ve1tSV
+Potsticker,2015-5-20,6LjCo5CO
+Taiwanese Sausage,2011-12-21,URF3XVz6Eh
+Green Tea,2014-12-26,WBm6ST432pE
+Jasmine Mlik Tea,2016-3-24,ynA1VbFXgUHy
+Thai Tea,2013-7-9,MF7x44rFIt
+Mango Green Tea,2010-9-24,BLkp6tvAlt
+Strawberry Green Tea,2016-1-9,rV0c2MQ53v2
+Peach Green Tea,2018-3-22,vB2quxKEFQ
+Lychee Green Tea,2013-3-29,xwpipl5i
+Lemon Green Tea,2012-8-19,fnls237c
+Watermelon Green Tea,2014-8-29,zxeJPMyLv
+Passion Green Tea,2017-2-20,MHzxv5ZYH6
+Vanilla Green Tea,2014-11-19,KyG8pgqqM
+Peppermine Tea,2015-8-29,345z4oocexu
+Salt Cheese Green Tea,2015-12-8,7HFe2fqCYT
+Salt Cheese Black Tea,2013-7-4,IvLhxckcv6kt
+Mango Smoothie,2018-1-21,hl80hDtQf
+Strawberry Smoothie,2014-7-10,Yw33NZGB
+Strawberry Smoothie,2015-10-11,swXvtr1s
+Avocado Smoothie,2015-1-23,wyKZUt2n
+Banana Smoothie,2013-4-22,oCoZC1COyS
+Taro Smoothie,2012-12-4,2B6nDA0tp8fg
+Matcha Smoothie,2012-10-24,N6jPGIlYlCH6
+Ice Cream Mlik Tea,2012-7-8,5Sx5Witei3
+Peppermint Jasmine Mlik Tea,2015-12-2,zhv48yME7
+Banana Mlik Tea,2016-4-20,0etgVVCA4B
+Cappuccino Milk Tea,2011-11-26,R3DwVxkcq
+Papaya Milk Tea,2011-12-30,RJBAPWZV
+Red Bean Milk Tea,2013-7-14,IYQEvXJF
+Honeydew Milk Tea,2011-1-28,sGxo9Tglud
+match Milk Tea,2011-9-8,6PrQE9zaPzb4
+Pinky,2012-4-27,aeBy03fGg
+Mango Mille Crepe,2012-1-16,Bk3rwvuM
+Matcha Mille Crepe,2014-12-24,Sqx6us40yKc
+Strawberry Pancake,2017-3-9,BhV2saMhzj
+Mango Pancake,2011-1-1,ECRYJHIYEddt
+Banana Pancake,2014-12-15,JMlb7h81i0
+Special Mango Juice Sago,2013-6-8,RMBVhTKwmB
+Crispy Popcorn Chicken,2013-7-16,yLFo8LJD
+Fired Squid Ball,2014-6-8,LuzpJXlcuoFW
+Potsticker,2016-9-14,kh1PNXVY837c
+Taiwanese Sausage,2012-3-31,icFj4QiU
+Sweet Potato Fries ,2018-3-1,9EyPyEJWOUar
+Fired Okra,2016-1-15,pmjdakoHv3IA
+Fired String Bean,2017-8-23,5DDM6GPfW
+Tater Tots,2015-10-27,4B1sfTGE
+Banana Smoothie,2012-2-25,jphV9nGH1k
+Taro Smoothie,2014-4-23,8nfQ2byoD
+Matcha Smoothie,2014-3-9,Lo9ukj1R
+Ice Cream Mlik Tea,2011-8-28,nAlVNmx8Mh
+Peppermint Jasmine Mlik Tea,2017-7-20,L3qJmUyrVPSc
+Banana Mlik Tea,2011-4-29,n1dqaYiWd
+Cappuccino Milk Tea,2017-5-3,JnyptVgtTs
+Papaya Milk Tea,2013-8-10,3D2x0yh9Ch9
+Red Bean Milk Tea,2011-1-2,Sy3o50bL
+Taro Milk Tea,2017-2-14,KGIxPyoB
+Watermelon Milk Tea,2015-2-12,g7PoagevS8
+Fired String Bean,2016-3-18,RPCAZYGneYU
+Tater Tots,2010-9-22,LCCcAzEtqU
+Banana Smoothie,2010-5-1,05AQUjuK7HVz
+Taro Smoothie,2010-8-27,2kFcQdXxf
+Matcha Smoothie,2012-9-21,aOSNL8ZK1VD
+Ice Cream Mlik Tea,2014-1-18,ljhcV84H
+Peppermint Jasmine Mlik Tea,2010-12-7,lBGoizo5u
+Banana Mlik Tea,2014-5-30,dHf0d13Gar
+Cappuccino Milk Tea,2013-11-18,3cLxWUEQuC3g
+Papaya Milk Tea,2017-9-26,Jv1Bj5UakI
+Red Bean Milk Tea,2010-5-11,kwBSJ87q
+Taro Milk Tea,2017-11-9,1TezS8x98yZ0
+Watermelon Milk Tea,2017-1-23,A50fKIuQOV
+Honeydew Milk Tea,2018-2-22,rO4MnPgBY
+Banana Pancake,2014-3-23,67DVpBrR41MX
+Special Mango Juice Sago,2015-2-11,JJQH1UwJ
+Crispy Popcorn Chicken,2012-7-29,C15MyCoNy
+Fired Squid Ball,2015-8-5,b43R4bOIe
+Potsticker,2010-10-16,JdgOYEU0
+Taiwanese Sausage,2012-5-6,EN467If3Sd
+Green Tea,2014-11-20,svkdm7NWd
+Jasmine Mlik Tea,2012-11-25,QR3SIrPHU
+Thai Tea,2012-11-7,vjfMyoaJIryq
+Mango Green Tea,2016-6-11,a2AYeDa26g
+Strawberry Green Tea,2012-2-6,7B0cfRpQnMNW
+Peach Green Tea,2017-8-20,zGEwVi94koOJ
+Lychee Green Tea,2015-1-8,smkby8My
+Lemon Green Tea,2016-4-24,lGtUi0jx
+Watermelon Green Tea,2012-9-21,8tWWzTYt5
+Passion Green Tea,2011-10-10,aTIKND7bhis
+Vanilla Green Tea,2011-6-21,FniSMBcfz
+Peppermine Tea,2010-4-22,jZgcKrAkFu9
+Salt Cheese Green Tea,2010-8-16,OvYLAYwMzu
+Salt Cheese Black Tea,2012-9-26,aawWw1fZuTh
+Mango Smoothie,2018-2-5,7bmMck3g
+Banana Mlik Tea,2015-9-6,TRoS3Pgfl
+Cappuccino Milk Tea,2015-4-29,EMknEZrB9
+Papaya Milk Tea,2012-2-1,mVEcv95CnTle
+Red Bean Milk Tea,2010-5-30,5UZdGAZyq4Rv
+Taro Milk Tea,2016-7-17,gdRKofRMYhF
+Watermelon Milk Tea,2017-3-29,DcKCGI7t
+Honeydew Milk Tea,2015-3-6,CSl8BFJLn
+Banana Pancake,2016-2-14,7S7P3GMZ
+Special Mango Juice Sago,2013-9-30,YCkxDfsw7eZM
+Crispy Popcorn Chicken,2012-2-22,FV6fh8wK
+Fired Squid Ball,2015-11-21,JZILJnl60ys
+Potsticker,2017-1-30,kfEc66OIqS6t
+Honeydew Milk Tea,2013-3-24,UvmWAjW6d
+Banana Pancake,2012-1-17,ggXaoeUtK5
+Special Mango Juice Sago,2013-11-18,v71SGMLNSh
+Crispy Popcorn Chicken,2011-5-31,OBdNYSL6
+Fired Squid Ball,2016-9-13,HCxOFnhzAy
+Potsticker,2016-12-16,E6mjRmXxsfm
+Taiwanese Sausage,2013-5-6,e8hHEs9V373X
+Green Tea,2010-12-2,rm0Q7Te1r
+Jasmine Mlik Tea,2012-4-9,qHOpZTjWsvbq
+Thai Tea,2013-5-21,T1NjF65QMl
+Mango Green Tea,2011-11-26,2FK7Gkzs
+Strawberry Green Tea,2013-6-26,u7dQqjVza
+Peach Green Tea,2010-5-16,dlsXVO23Tpq3
+Lychee Green Tea,2017-2-5,h1IIMEGK
+Lemon Green Tea,2016-6-15,6WhmbTlS
+Watermelon Green Tea,2014-11-30,POxMOrFGTu
+Passion Green Tea,2012-8-12,UwfWrpf6q
+Vanilla Green Tea,2013-9-21,ZbxFy2boBo
+Peppermine Tea,2012-11-3,BUL6XqxJWj
+Salt Cheese Green Tea,2013-11-13,IoKHnRjn0pk
+Salt Cheese Black Tea,2013-6-15,f6Ris5mPr
+Mango Smoothie,2010-11-1,F9Ru0Xau9C
+Banana Mlik Tea,2016-11-24,s2uqdAmB
+Cappuccino Milk Tea,2012-9-18,WgP1KA7J
+Papaya Milk Tea,2013-4-21,VSCBBV3I
+Red Bean Milk Tea,2011-9-10,3wATN0Ct
+Taro Milk Tea,2013-1-18,LnR7Xxi5a
+Watermelon Milk Tea,2010-10-21,ZUTXUQjl
+Honeydew Milk Tea,2014-6-30,wHh3j5Cbvc
+Banana Pancake,2017-6-23,a5eg3k9I6D52
+Special Mango Juice Sago,2015-10-10,77ZqSHf4cLyt
+Crispy Popcorn Chicken,2012-6-3,SYcX7Nux0Hs
+Fired Squid Ball,2014-9-21,ciOvILcGs
+Potsticker,2017-11-1,gtc4mKCxyoQ
+Taiwanese Sausage,2012-5-11,nUvsaUgfU0kJ
+Green Tea,2017-11-1,Vqf9rD4D9
+Jasmine Mlik Tea,2017-12-7,ZrliCuBQB
+Thai Tea,2010-8-31,ouuAM7k0h84
+Mango Green Tea,2011-1-11,qeGUbMO3P3
+Strawberry Green Tea,2015-12-31,9pjzsa5BBrs
+Peach Green Tea,2010-4-3,qxmbJBXMjrO
+Lychee Green Tea,2017-8-15,IPlrghCLk
+Lemon Green Tea,2018-2-25,aH6xI025T
+Watermelon Green Tea,2016-4-27,gocJOrXwU
+Passion Green Tea,2010-6-22,4JU4wtjWvD
+Vanilla Green Tea,2015-6-12,MJPHEBBR
+Red Bean Milk Tea,2014-5-7,ODwfk48LG5uo
+Taro Milk Tea,2015-5-27,kNEnxhhW
+Watermelon Milk Tea,2012-9-5,cm8U6Wl5D
+Honeydew Milk Tea,2013-3-11,SSUZv3BfffBt
+Banana Pancake,2011-7-3,n15kKo5abp
+Special Mango Juice Sago,2013-12-17,KCAflTmK
+Crispy Popcorn Chicken,2013-1-23,qLa9wyjfd
+Fired Squid Ball,2011-8-13,TTHYqKDDh
+Potsticker,2011-4-3,B8iYCSrA
+Honeydew Milk Tea,2010-6-14,G9XjVvb94
+Banana Pancake,2017-7-21,yUwQbld3Vh
+Special Mango Juice Sago,2011-6-9,TLigkRUC5
+Crispy Popcorn Chicken,2014-3-22,fFU0ve1tSV
+Fired Squid Ball,2013-4-3,6LjCo5CO
+Salt Cheese Green Tea,2017-9-30,URF3XVz6Eh
+Salt Cheese Black Tea,2015-11-22,WBm6ST432pE
+Mango Smoothie,2012-4-18,ynA1VbFXgUHy
+Banana Mlik Tea,2013-6-18,MF7x44rFIt
+Cappuccino Milk Tea,2015-11-15,BLkp6tvAlt
+Papaya Milk Tea,2011-11-22,rV0c2MQ53v2
+Peppermine Tea,2013-7-28,vB2quxKEFQ
+Salt Cheese Green Tea,2016-1-14,xwpipl5i
+Salt Cheese Black Tea,2010-9-21,fnls237c
+Fired Squid Ball,2013-5-30,zxeJPMyLv
+Potsticker,2016-12-22,MHzxv5ZYH6
+Taiwanese Sausage,2015-8-26,KyG8pgqqM
+Green Tea,2010-4-28,345z4oocexu
+Jasmine Mlik Tea,2017-12-28,7HFe2fqCYT
+Thai Tea,2015-5-29,IvLhxckcv6kt
+Mango Green Tea,2016-1-13,hl80hDtQf
+Strawberry Green Tea,2012-10-30,Yw33NZGB
+Peach Green Tea,2011-2-22,swXvtr1s
+Lychee Green Tea,2010-4-17,wyKZUt2n
+Lemon Green Tea,2012-5-16,oCoZC1COyS
+Watermelon Green Tea,2015-5-8,2B6nDA0tp8fg
+Passion Green Tea,2017-3-28,N6jPGIlYlCH6
+Vanilla Green Tea,2010-7-22,5Sx5Witei3
+Peppermine Tea,2013-7-24,zhv48yME7
+Salt Cheese Green Tea,2014-10-12,0etgVVCA4B
+Salt Cheese Black Tea,2015-9-8,rV0c2MQ53v2
+Mango Smoothie,2017-9-7,vB2quxKEFQ
+Banana Mlik Tea,2018-3-30,xwpipl5i
+Cappuccino Milk Tea,2015-5-5,fnls237c
+Papaya Milk Tea,2013-10-9,zxeJPMyLv
+Red Bean Milk Tea,2017-3-20,MHzxv5ZYH6
+Taro Milk Tea,2016-4-15,KyG8pgqqM
+Watermelon Milk Tea,2014-5-24,345z4oocexu
+Honeydew Milk Tea,2011-12-31,7HFe2fqCYT
+Banana Pancake,2014-1-14,IvLhxckcv6kt
+Special Mango Juice Sago,2013-2-3,hl80hDtQf
+Crispy Popcorn Chicken,2017-4-7,Yw33NZGB
+Fired Squid Ball,2014-12-8,swXvtr1s
+Potsticker,2012-2-9,wyKZUt2n
+Honeydew Milk Tea,2016-3-8,oCoZC1COyS
+Banana Pancake,2013-3-1,2B6nDA0tp8fg
+Special Mango Juice Sago,2013-8-23,N6jPGIlYlCH6
+Crispy Popcorn Chicken,2012-9-20,5Sx5Witei3
+Fired Squid Ball,2017-11-28,zhv48yME7
+Potsticker,2015-12-15,0etgVVCA4B
+Taiwanese Sausage,2011-4-8,R3DwVxkcq
+Green Tea,2013-4-2,RJBAPWZV
+Matcha Smoothie,2014-8-24,IYQEvXJF
+Ice Cream Mlik Tea,2015-5-11,sGxo9Tglud
+Peppermint Jasmine Mlik Tea,2016-12-27,6PrQE9zaPzb4
+Banana Mlik Tea,2014-4-3,aeBy03fGg
+Cappuccino Milk Tea,2013-8-26,Bk3rwvuM
+Papaya Milk Tea,2012-5-14,Sqx6us40yKc
+Red Bean Milk Tea,2015-8-4,BhV2saMhzj
+Honeydew Milk Tea,2011-1-18,ECRYJHIYEddt
+match Milk Tea,2017-11-5,JMlb7h81i0
+Banana Mlik Tea,2010-12-30,RMBVhTKwmB
+Cappuccino Milk Tea,2013-12-25,yLFo8LJD
+Papaya Milk Tea,2016-7-9,LuzpJXlcuoFW
+Red Bean Milk Tea,2018-2-13,kh1PNXVY837c
+Taro Milk Tea,2011-2-9,icFj4QiU
+Watermelon Milk Tea,2012-7-29,9EyPyEJWOUar
+Fired String Bean,2014-7-5,pmjdakoHv3IA
+Tater Tots,2014-4-20,5DDM6GPfW
+Banana Smoothie,2013-12-31,4B1sfTGE
+Taro Smoothie,2011-12-19,jphV9nGH1k
+Matcha Smoothie,2018-3-24,8nfQ2byoD
+Ice Cream Mlik Tea,2013-10-10,Lo9ukj1R
+Peppermint Jasmine Mlik Tea,2013-6-26,nAlVNmx8Mh
+Banana Mlik Tea,2016-6-17,L3qJmUyrVPSc
+Cappuccino Milk Tea,2017-6-1,n1dqaYiWd
+Papaya Milk Tea,2012-10-3,JnyptVgtTs
+Red Bean Milk Tea,2012-9-13,3D2x0yh9Ch9
+Taro Milk Tea,2011-2-8,Sy3o50bL
+Watermelon Milk Tea,2013-6-3,KGIxPyoB
+Honeydew Milk Tea,2013-8-25,g7PoagevS8
+Banana Pancake,2016-5-9,RPCAZYGneYU
+Special Mango Juice Sago,2012-4-26,LCCcAzEtqU
+Crispy Popcorn Chicken,2011-2-24,05AQUjuK7HVz
+Fired Squid Ball,2012-5-8,2kFcQdXxf
+Potsticker,2012-2-15,aOSNL8ZK1VD
+Taiwanese Sausage,2011-12-11,ljhcV84H
+Green Tea,2016-11-12,lBGoizo5u
+Jasmine Mlik Tea,2010-4-22,dHf0d13Gar
+Thai Tea,2013-1-29,3cLxWUEQuC3g
+Mango Green Tea,2014-7-7,Jv1Bj5UakI
+Strawberry Green Tea,2013-1-11,kwBSJ87q
+Peach Green Tea,2011-2-16,1TezS8x98yZ0
+Lychee Green Tea,2013-3-12,A50fKIuQOV
+Lemon Green Tea,2015-8-14,rO4MnPgBY
+Watermelon Green Tea,2017-12-29,67DVpBrR41MX
+Passion Green Tea,2010-11-26,JJQH1UwJ
+Vanilla Green Tea,2010-11-19,C15MyCoNy
+Peppermine Tea,2013-10-28,b43R4bOIe
+Salt Cheese Green Tea,2016-11-15,JdgOYEU0
+Salt Cheese Black Tea,2016-12-6,EN467If3Sd
+Mango Smoothie,2016-3-31,svkdm7NWd
+Strawberry Smoothie,2013-4-1,QR3SIrPHU
+Strawberry Smoothie,2011-4-20,vjfMyoaJIryq
+Avocado Smoothie,2011-5-30,a2AYeDa26g
+Banana Smoothie,2016-10-23,7B0cfRpQnMNW
+Taro Smoothie,2010-10-3,zGEwVi94koOJ
+Matcha Smoothie,2014-8-13,smkby8My
+Ice Cream Mlik Tea,2010-9-8,lGtUi0jx
+Peppermint Jasmine Mlik Tea,2018-1-28,8tWWzTYt5
+Banana Mlik Tea,2011-2-3,aTIKND7bhis
+Crispy Popcorn Chicken,2012-11-23,FniSMBcfz
+Fired Squid Ball,2012-12-26,jZgcKrAkFu9
+Potsticker,2010-8-28,OvYLAYwMzu
+Taiwanese Sausage,2014-8-11,aawWw1fZuTh
+Green Tea,2015-10-5,7bmMck3g
+Matcha Smoothie,2014-2-17,TRoS3Pgfl
+Ice Cream Mlik Tea,2013-10-19,KyG8pgqqM
+Peppermint Jasmine Mlik Tea,2011-11-29,345z4oocexu
+Banana Mlik Tea,2015-1-6,7HFe2fqCYT
+Cappuccino Milk Tea,2017-7-20,IvLhxckcv6kt
+Papaya Milk Tea,2013-2-15,hl80hDtQf
+Red Bean Milk Tea,2017-10-28,Yw33NZGB
+Honeydew Milk Tea,2017-5-30,swXvtr1s
+match Milk Tea,2015-12-28,wyKZUt2n
+Banana Mlik Tea,2016-11-12,oCoZC1COyS
+Cappuccino Milk Tea,2011-2-19,2B6nDA0tp8fg
+Papaya Milk Tea,2016-4-13,N6jPGIlYlCH6
+Red Bean Milk Tea,2013-8-4,5Sx5Witei3
+Taro Milk Tea,2015-6-21,zhv48yME7
+Watermelon Milk Tea,2013-2-8,0etgVVCA4B
+Fired String Bean,2015-9-9,rV0c2MQ53v2
+Tater Tots,2016-9-3,vB2quxKEFQ
+Banana Smoothie,2016-5-24,xwpipl5i
+Taro Smoothie,2012-5-16,fnls237c
+Matcha Smoothie,2011-6-30,zxeJPMyLv
+Ice Cream Mlik Tea,2013-3-30,MHzxv5ZYH6
+Peppermint Jasmine Mlik Tea,2010-11-28,KyG8pgqqM
+Banana Mlik Tea,2010-11-25,345z4oocexu
+Cappuccino Milk Tea,2015-5-5,7HFe2fqCYT
+Papaya Milk Tea,2013-6-26,IvLhxckcv6kt
+Red Bean Milk Tea,2017-4-8,hl80hDtQf
+Taro Milk Tea,2012-9-19,Yw33NZGB
+Watermelon Milk Tea,2010-9-17,swXvtr1s
+Honeydew Milk Tea,2011-8-22,wyKZUt2n
+Banana Pancake,2018-2-19,oCoZC1COyS
+Special Mango Juice Sago,2016-9-20,2B6nDA0tp8fg
+Crispy Popcorn Chicken,2012-4-4,N6jPGIlYlCH6
+Fired Squid Ball,2014-5-25,5Sx5Witei3
+Potsticker,2014-2-3,zhv48yME7
+Taiwanese Sausage,2014-6-22,0etgVVCA4B
+Green Tea,2015-6-5,R3DwVxkcq
+Jasmine Mlik Tea,2013-8-13,RJBAPWZV
+Thai Tea,2013-2-16,IYQEvXJF
+Mango Green Tea,2017-11-15,sGxo9Tglud
+Strawberry Green Tea,2013-9-26,6PrQE9zaPzb4
+Peach Green Tea,2010-5-26,aeBy03fGg
+Lychee Green Tea,2016-6-19,Bk3rwvuM
+Lemon Green Tea,2017-10-13,Sqx6us40yKc
+Watermelon Green Tea,2017-8-10,BhV2saMhzj
+Passion Green Tea,2010-9-23,ECRYJHIYEddt
+Vanilla Green Tea,2015-8-23,JMlb7h81i0
+Peppermine Tea,2015-2-14,RMBVhTKwmB
+Salt Cheese Green Tea,2011-4-5,yLFo8LJD
+Taro Smoothie,2014-7-5,LuzpJXlcuoFW
+Matcha Smoothie,2012-9-18,kh1PNXVY837c
+Ice Cream Mlik Tea,2014-9-7,icFj4QiU
+Peppermint Jasmine Mlik Tea,2017-5-28,9EyPyEJWOUar
+Banana Mlik Tea,2017-9-20,pmjdakoHv3IA
+Cappuccino Milk Tea,2010-7-16,5DDM6GPfW
+Papaya Milk Tea,2016-10-14,4B1sfTGE
+Red Bean Milk Tea,2014-7-15,jphV9nGH1k
+Taro Milk Tea,2013-5-16,8nfQ2byoD
+Watermelon Milk Tea,2017-6-14,Lo9ukj1R
+Honeydew Milk Tea,2015-2-27,nAlVNmx8Mh
+Banana Pancake,2017-3-31,L3qJmUyrVPSc
+Special Mango Juice Sago,2015-5-2,n1dqaYiWd
+Crispy Popcorn Chicken,2010-5-16,JnyptVgtTs
+Fired Squid Ball,2010-11-6,3D2x0yh9Ch9
+Potsticker,2017-8-29,Sy3o50bL
+Taiwanese Sausage,2015-8-15,KGIxPyoB
+Green Tea,2014-3-12,g7PoagevS8
+Jasmine Mlik Tea,2017-9-1,RPCAZYGneYU
+Thai Tea,2016-3-14,LCCcAzEtqU
+Mango Green Tea,2016-8-22,05AQUjuK7HVz
+Strawberry Green Tea,2015-5-26,2kFcQdXxf
+Peach Green Tea,2012-7-29,aOSNL8ZK1VD
+Lychee Green Tea,2018-1-22,ljhcV84H
+Lemon Green Tea,2014-11-16,lBGoizo5u
+Watermelon Green Tea,2014-5-15,dHf0d13Gar
+Passion Green Tea,2014-9-25,3cLxWUEQuC3g
+Vanilla Green Tea,2014-4-11,Jv1Bj5UakI
+Peppermine Tea,2011-10-22,kwBSJ87q
+Salt Cheese Green Tea,2013-5-6,1TezS8x98yZ0
+Salt Cheese Black Tea,2015-3-10,A50fKIuQOV
+Mango Smoothie,2011-2-19,rO4MnPgBY
+Strawberry Smoothie,2015-7-22,67DVpBrR41MX
+Strawberry Smoothie,2015-12-8,JJQH1UwJ
+Avocado Smoothie,2014-2-2,C15MyCoNy
+Banana Smoothie,2014-7-16,b43R4bOIe
+Taro Smoothie,2012-5-20,JdgOYEU0
+Matcha Smoothie,2011-3-26,EN467If3Sd
+Ice Cream Mlik Tea,2017-2-6,svkdm7NWd
+Peppermint Jasmine Mlik Tea,2013-4-16,QR3SIrPHU
+Banana Mlik Tea,2015-6-4,vjfMyoaJIryq
+Crispy Popcorn Chicken,2014-12-6,a2AYeDa26g
+Fired Squid Ball,2017-12-2,7B0cfRpQnMNW
+Potsticker,2012-10-5,zGEwVi94koOJ
+Taiwanese Sausage,2018-3-1,smkby8My
+Green Tea,2013-6-23,lGtUi0jx
+Matcha Smoothie,2013-4-25,8tWWzTYt5
+Ice Cream Mlik Tea,2016-2-19,gdRKofRMYhF
+Peppermint Jasmine Mlik Tea,2016-12-17,DcKCGI7t
+Banana Mlik Tea,2017-3-26,CSl8BFJLn
+Cappuccino Milk Tea,2016-9-23,7S7P3GMZ
+Papaya Milk Tea,2014-5-31,YCkxDfsw7eZM
+Red Bean Milk Tea,2011-7-20,FV6fh8wK
+Honeydew Milk Tea,2014-8-14,JZILJnl60ys
+match Milk Tea,2016-6-1,kfEc66OIqS6t
+Banana Mlik Tea,2016-9-17,UvmWAjW6d
+Cappuccino Milk Tea,2013-7-29,ggXaoeUtK5
+Papaya Milk Tea,2015-10-21,v71SGMLNSh
+Red Bean Milk Tea,2016-5-21,OBdNYSL6
+Taro Milk Tea,2016-10-8,HCxOFnhzAy
+Watermelon Milk Tea,2014-8-17,E6mjRmXxsfm
+Fired String Bean,2012-11-23,e8hHEs9V373X
+Tater Tots,2014-10-3,rm0Q7Te1r
+Banana Smoothie,2014-6-12,qHOpZTjWsvbq
+Taro Smoothie,2010-9-6,T1NjF65QMl
+Matcha Smoothie,2012-9-9,2FK7Gkzs
+Ice Cream Mlik Tea,2014-11-6,u7dQqjVza
+Peppermint Jasmine Mlik Tea,2015-12-5,dlsXVO23Tpq3
+Banana Mlik Tea,2013-10-8,h1IIMEGK
+Cappuccino Milk Tea,2013-1-1,6WhmbTlS
+Papaya Milk Tea,2017-5-14,POxMOrFGTu
+Red Bean Milk Tea,2011-8-25,UwfWrpf6q
+Taro Milk Tea,2015-9-9,ZbxFy2boBo
+Watermelon Milk Tea,2015-2-2,BUL6XqxJWj
+Honeydew Milk Tea,2015-2-5,IoKHnRjn0pk
+Banana Pancake,2012-6-22,f6Ris5mPr
+Special Mango Juice Sago,2014-12-26,F9Ru0Xau9C
+Red Bean Milk Tea,2012-4-6,s2uqdAmB
+Honeydew Milk Tea,2017-1-29,WgP1KA7J
+match Milk Tea,2016-5-3,VSCBBV3I
+Banana Mlik Tea,2012-11-29,3wATN0Ct
+Cappuccino Milk Tea,2016-9-16,LnR7Xxi5a
+Papaya Milk Tea,2010-11-11,ZUTXUQjl
+Red Bean Milk Tea,2015-9-3,wHh3j5Cbvc
+Taro Milk Tea,2014-12-10,a5eg3k9I6D52
+Watermelon Milk Tea,2014-7-20,77ZqSHf4cLyt
+Fired String Bean,2017-6-11,SYcX7Nux0Hs
+Tater Tots,2016-2-28,ciOvILcGs
+Banana Smoothie,2013-6-21,gtc4mKCxyoQ
+Taro Smoothie,2017-10-16,nUvsaUgfU0kJ
+Matcha Smoothie,2011-8-8,Vqf9rD4D9
+Ice Cream Mlik Tea,2015-10-23,ZrliCuBQB
+Peppermint Jasmine Mlik Tea,2010-9-13,ouuAM7k0h84
+Banana Mlik Tea,2014-2-28,qeGUbMO3P3
+Cappuccino Milk Tea,2014-12-1,9pjzsa5BBrs
+Papaya Milk Tea,2014-3-13,qxmbJBXMjrO
+Red Bean Milk Tea,2016-2-26,IPlrghCLk
+Taro Milk Tea,2010-12-19,aH6xI025T
+Watermelon Milk Tea,2015-4-19,gocJOrXwU
+Honeydew Milk Tea,2016-8-24,4JU4wtjWvD
+Banana Pancake,2013-4-2,MJPHEBBR
+Taro Milk Tea,2014-1-11,3QjYizbjET
+Watermelon Milk Tea,2013-12-3,hq2HykqT
+Fired String Bean,2011-6-11,uvKOx1bU
+Tater Tots,2013-4-30,tV19mqT3xFiY
+Banana Smoothie,2014-5-2,t23In7YcqiuQ
+Taro Smoothie,2015-8-18,vNVB7CYUk
+Matcha Smoothie,2013-8-17,AkzCOt0Q9eqD
+Ice Cream Mlik Tea,2015-10-25,nfMEVtvVB2
+Peppermint Jasmine Mlik Tea,2016-6-18,OKrIcPYU
+Banana Mlik Tea,2018-3-28,UI9xSLPA
+Cappuccino Milk Tea,2014-9-19,8RZ2TjTK
+Papaya Milk Tea,2017-12-3,s3iYIeMlE
+Red Bean Milk Tea,2010-12-15,T13ZBVPGpHg
+Taro Milk Tea,2011-12-29,ZKwUr0dxBK
+Papaya Milk Tea,2013-9-7,zJ4hSvSzZ
+Red Bean Milk Tea,2013-12-17,Zxexse9cHnrr
+Taro Milk Tea,2014-9-22,nKdyrZRS
+Watermelon Milk Tea,2016-4-16,qJjMAn3rAj0z
+Fired String Bean,2014-10-20,LngoAy4AIb89
+Tater Tots,2017-6-17,Cb2yEpoP4Jlw
+Banana Smoothie,2016-2-9,47XgkoU8
+Taro Smoothie,2016-12-15,jY5sB5OPZs
+Matcha Smoothie,2010-6-3,U1f2fGFT6FFj
+Ice Cream Mlik Tea,2016-8-17,Tm3fOMTHmJa
+Peppermint Jasmine Mlik Tea,2015-10-10,0a5tXH8e7g1
+Banana Mlik Tea,2011-11-26,veHjEipbqsB
+Cappuccino Milk Tea,2017-8-11,F1qnHb12Z
+Papaya Milk Tea,2011-4-5,EafNSi8A
+Red Bean Milk Tea,2015-7-18,zkIa3e31
+Taro Milk Tea,2017-8-19,V4sVqkGmrn
+Watermelon Milk Tea,2014-6-7,G5zxHKOarubn
+Honeydew Milk Tea,2012-12-20,YZBE10ggvGx
+Banana Pancake,2014-5-15,ZLP6SWfspV
+Taiwanese Sausage,2017-12-12,pnA0OJzibp8
+Green Tea,2013-2-8,AUiPxEwWS
+Jasmine Mlik Tea,2016-10-4,8b0x3wRiv2R
+Thai Tea,2016-1-17,sH7SMEWcjig
+Mango Green Tea,2017-7-20,1pacK04x4I
+Strawberry Green Tea,2016-7-22,Bk3rwvuM
+Peach Green Tea,2014-3-6,Sqx6us40yKc
+Lychee Green Tea,2016-11-23,BhV2saMhzj
+Lemon Green Tea,2012-7-12,ECRYJHIYEddt
+Watermelon Green Tea,2016-11-4,JMlb7h81i0
+Passion Green Tea,2013-1-8,RMBVhTKwmB
+Vanilla Green Tea,2011-7-25,yLFo8LJD
+Peppermine Tea,2015-7-8,LuzpJXlcuoFW
+Salt Cheese Green Tea,2011-11-4,kh1PNXVY837c
+Salt Cheese Black Tea,2011-3-12,icFj4QiU
+Mango Smoothie,2015-2-18,9EyPyEJWOUar
+Banana Mlik Tea,2011-3-8,pmjdakoHv3IA
+Cappuccino Milk Tea,2016-10-22,5DDM6GPfW
+Papaya Milk Tea,2015-6-29,4B1sfTGE
+Peppermine Tea,2014-3-22,jphV9nGH1k
+Salt Cheese Green Tea,2012-1-4,8nfQ2byoD
+Salt Cheese Black Tea,2014-1-8,Lo9ukj1R
+Mango Smoothie,2011-6-21,nAlVNmx8Mh
+Banana Mlik Tea,2012-4-21,L3qJmUyrVPSc
+Cappuccino Milk Tea,2010-8-7,n1dqaYiWd
+Papaya Milk Tea,2012-6-6,JnyptVgtTs
+Red Bean Milk Tea,2013-12-11,3D2x0yh9Ch9
+Taro Milk Tea,2013-6-10,Sy3o50bL
+Watermelon Milk Tea,2015-8-26,KGIxPyoB
+Honeydew Milk Tea,2016-3-21,g7PoagevS8
+Banana Pancake,2015-9-6,RPCAZYGneYU
+Special Mango Juice Sago,2013-8-17,LCCcAzEtqU
+Crispy Popcorn Chicken,2017-6-18,05AQUjuK7HVz
+Fired Squid Ball,2014-6-28,2kFcQdXxf
+Potsticker,2011-10-5,aOSNL8ZK1VD
+Taiwanese Sausage,2016-7-5,ljhcV84H
+Red Bean Milk Tea,2016-4-5,lBGoizo5u
+Taro Milk Tea,2015-10-4,dHf0d13Gar
+Watermelon Milk Tea,2013-7-8,3cLxWUEQuC3g
+Fired String Bean,2015-9-10,Jv1Bj5UakI
+Tater Tots,2017-11-14,kwBSJ87q
+Banana Smoothie,2012-9-21,1TezS8x98yZ0
+Taro Smoothie,2014-6-25,A50fKIuQOV
+Matcha Smoothie,2013-11-4,rO4MnPgBY
+Ice Cream Mlik Tea,2013-1-26,67DVpBrR41MX
+Peppermint Jasmine Mlik Tea,2014-10-10,JJQH1UwJ
+Banana Mlik Tea,2015-7-18,C15MyCoNy
+Cappuccino Milk Tea,2014-12-7,b43R4bOIe
+Papaya Milk Tea,2016-12-10,JdgOYEU0
+Red Bean Milk Tea,2015-12-4,EN467If3Sd
+Taro Milk Tea,2017-9-22,svkdm7NWd
+Watermelon Milk Tea,2018-3-27,QR3SIrPHU
+Honeydew Milk Tea,2012-7-24,vjfMyoaJIryq
+Banana Pancake,2014-6-18,a2AYeDa26g
+Taiwanese Sausage,2012-2-23,7B0cfRpQnMNW
+Green Tea,2017-6-26,zGEwVi94koOJ
+Jasmine Mlik Tea,2016-1-22,smkby8My
+Thai Tea,2015-4-6,lGtUi0jx
+Mango Green Tea,2014-6-12,8tWWzTYt5
+Strawberry Green Tea,2017-5-14,aTIKND7bhis
+Peach Green Tea,2016-7-6,FniSMBcfz
+Jasmine Mlik Tea,2014-9-22,jZgcKrAkFu9
+Thai Tea,2016-8-26,OvYLAYwMzu
+Mango Green Tea,2010-9-3,aawWw1fZuTh
+Strawberry Green Tea,2013-5-2,7bmMck3g
+Peach Green Tea,2011-9-8,TRoS3Pgfl
+Lychee Green Tea,2011-8-20,EMknEZrB9
+Lemon Green Tea,2016-11-18,mVEcv95CnTle
+Watermelon Green Tea,2014-10-10,5UZdGAZyq4Rv
+Passion Green Tea,2016-12-21,gdRKofRMYhF
+Vanilla Green Tea,2015-7-31,DcKCGI7t
+Peppermine Tea,2010-6-20,CSl8BFJLn
+Salt Cheese Green Tea,2010-10-26,7S7P3GMZ
+Salt Cheese Black Tea,2018-2-17,YCkxDfsw7eZM
+Mango Smoothie,2016-6-1,FV6fh8wK
+Banana Mlik Tea,2017-4-5,JZILJnl60ys
+Cappuccino Milk Tea,2015-4-17,kfEc66OIqS6t
+Papaya Milk Tea,2013-12-3,UvmWAjW6d
+Peppermine Tea,2011-2-11,ggXaoeUtK5
+Salt Cheese Green Tea,2013-2-15,v71SGMLNSh
+Salt Cheese Black Tea,2013-12-26,OBdNYSL6
+Mango Smoothie,2013-4-18,HCxOFnhzAy
+Banana Mlik Tea,2017-8-19,E6mjRmXxsfm
+Cappuccino Milk Tea,2017-10-31,e8hHEs9V373X
+Papaya Milk Tea,2017-11-29,rm0Q7Te1r
+Red Bean Milk Tea,2016-2-17,qHOpZTjWsvbq
+Taro Milk Tea,2014-10-23,T1NjF65QMl
+Watermelon Milk Tea,2017-5-17,2FK7Gkzs
+Honeydew Milk Tea,2010-12-28,u7dQqjVza
+Banana Pancake,2017-11-14,dlsXVO23Tpq3
+Special Mango Juice Sago,2014-12-4,h1IIMEGK
+Crispy Popcorn Chicken,2015-2-28,6WhmbTlS
+Fired Squid Ball,2016-7-6,POxMOrFGTu
+Potsticker,2015-1-6,UwfWrpf6q

@@ -1,0 +1,47 @@
+Drink,Milk Tea,3.5
+Drink,Black Tea,3.5
+Drink,Green Tea,3.5
+Drink,Jasmine Mlik Tea,3.5
+Drink,Thai Tea,3.75
+Drink,Mango Green Tea,3.75
+Drink,Strawberry Green Tea,3.75
+Drink,Peach Green Tea,3.75
+Drink,Lychee Green Tea,3.75
+Drink,Lemon Green Tea,3.75
+Drink,Watermelon Green Tea,3.75
+Drink,Passion Green Tea,3.75
+Drink,Vanilla Green Tea,3.75
+Drink,Peppermine Tea,3.75
+Drink,Salt Cheese Green Tea,4
+Drink,Salt Cheese Black Tea,4
+Drink,Mango Smoothie,4
+Drink,Strawberry Smoothie,4
+Drink,Avocado Smoothie,4
+Drink,Banana Smoothie,4
+Drink,Taro Smoothie,4
+Drink,Matcha Smoothie,4
+Drink,Ice Cream Mlik Tea,4
+Drink,Peppermint Jasmine Mlik Tea,4.75
+Drink,Banana Mlik Tea,4.75
+Drink,Cappuccino Milk Tea,4.75
+Drink,Papaya Milk Tea,4.75
+Drink,Red Bean Milk Tea,4.75
+Drink,Taro Milk Tea,4.75
+Drink,Watermelon Milk Tea,4.75
+Drink,Honeydew Milk Tea,4.75
+Drink,match Milk Tea,4.75
+Drink,Pinky,5
+Dessert,Mango Mille Crepe,7.5
+Dessert,Matcha Mille Crepe,8
+Dessert,Strawberry Pancake,4.99
+Dessert,Mango Pancake,4.99
+Dessert,Banana Pancake,4.99
+Dessert,Special Mango Juice Sago,6.5
+Food,Crispy Popcorn Chicken,3.99
+Food,Fired Squid Ball,3.99
+Food,Potsticker,3.99
+Food,Taiwanese Sausage,3.99
+Food,Sweet Potato Fries ,3.99
+Food,Fired Okra,3.99
+Food,Fired String Bean,3.99
+Food,Tater Tots,3.99

@@ -1,0 +1,64 @@
+{% extends 'base.html' %}
+
+{% load widget_tweaks %}
+
+
+{% block content %}
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Filter</button>
+  <div id="demo" class="collapse">
+    <form method="get">
+        <div class="form-group">
+            {{ filter.form.name.label_tag }}
+            {% render_field filter.form.name class="form-control" %}
+        </div>
+        <div class="form-group">
+            <div>Under:</div>
+            {{ filter.product.price.label_tag }}
+            {% render_field filter.form.price class="form-control" %}                    <button type="submit" class="btn">Search</button>
+        </div>
+    </form>
+  </div>
+
+
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#dhama">Purchase</button>  
+  <div id="dhama" class="collapse">
+      <form method="post">
+      Product:<br>
+      <input type="text" name="Product" value="">
+      <br>Branch:<br>
+      <select name="Branch">
+        <option value="1">97 Tunnel Lane  Bronx NY 10469</option>
+        <option value="2">9516 Bay St.  Bay Shore NY 11706</option>
+        <option value="3">7430 Walnut Ave. New York NY 10024</option>
+        <option value="4">71 E. Riverside Street  Troy NY 12180</option>
+        <option value="5">6 Fifth St.  Brooklyn NY 11225</option>
+        <option value="6">216 Greenrose St.  Astoria NY 11103</option>
+      </select>
+      <input type="submit" class="btn btn-primary" value="Submit">
+    </form> 
+   </div>
+
+
+<table class="table table-bordered">
+  <thead class="thead-dark">
+    <tr>
+      <th>Categories</th>
+      <th>Name</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for product in filter.qs %}
+  </tr>
+  <td>{{ product.category }}</td>       
+  <td>{{ product.name }}</td>
+  <td>{{ product.price }}</td> 
+</tr>
+{% empty %}
+<tr> 
+  <td colspan="3">No Results. Try Modifying your seach query.</td>
+</tr>
+{% endfor %}  
+</tbody>
+</table>
+{% endblock %}

@@ -1,0 +1,7 @@
+Branch: 7430 Walnut Ave. New York NY 10024 had 536 sales.
+Branch: 97 Tunnel Lane  Bronx NY 10469 had 550 sales.
+Branch: 6 Fifth St.  Brooklyn NY 11225 had 530 sales.
+Branch: 71 E. Riverside Street  Troy NY 12180 had 555 sales.
+Branch: 216 Greenrose St.  Astoria NY 11103 had 546 sales.
+Branch: 9516 Bay St.  Bay Shore NY 11706 had 553 sales.
+

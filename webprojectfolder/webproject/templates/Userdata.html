@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% load widget_tweaks %}
+
+
+{% block content %}
+  <table class="table table-bordered">
+  	<thead class="thead-deark">
+  		<tr>
+  			<th>Your Purchase History</th>
+  		</tr>
+  	</thead>
+  	<tbody>
+  		{% for string in strings %}
+          <tr>
+          	<td>{{ string }}</td>
+          </tr>
+        {% empty %}
+          <tr>
+          	<td colspan="3">No Results. Try Modifying your search query.</td>
+          </tr>  	
+        {% endfor %}
+  	</tbody>
+  </table>
+{% endblock %}
