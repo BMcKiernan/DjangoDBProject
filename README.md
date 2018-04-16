@@ -17,10 +17,11 @@ git clone https://github.com/BMcKiernan/reqsaddedwebproj.git
 After cloning the repo 
 change directory to webprojectfolder within the reqsaddedwebproj project folder
 
-Type source venviv/bin/activate
+Type: source venviv/bin/activate
 if you see (venviv) sh4-$ ./PWD/
-then you can just cd to webproject and type python manage.py runserver and the the website should work
-you just have to click on the link in the terminal.
+then you can just cd to webproject and type: python manage.py runserver 
+and the the website should work
+you just have to hit CTRL and click on the link in the terminal.
 
 
 
