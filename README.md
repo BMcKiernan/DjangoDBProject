@@ -1,7 +1,16 @@
 # reqsaddedwebproj
 This project needs to be run in linux.
 
+To clone the project type
+git clone
 
+
+
+        'Schema' : 'BubbleTeaStore',
+        'USER': 'admin',
+        'PASSWORD': 'password',
+        'HOST': 'cs336-spr18.cmdsenyxfjmy.us-east-2.rds.amazonaws.com',
+        'PORT': '3306',
 
 
 After cloning the repo 
