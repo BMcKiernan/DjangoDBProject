@@ -7,13 +7,6 @@ git clone https://github.com/BMcKiernan/reqsaddedwebproj.git
 
 
 
-        'Schema' : 'BubbleTeaStore',
-        'USER': 'admin',
-        'PASSWORD': 'password',
-        'HOST': 'cs336-spr18.cmdsenyxfjmy.us-east-2.rds.amazonaws.com',
-        'PORT': '3306',
-
-
 After cloning the repo 
 change directory to webprojectfolder within the reqsaddedwebproj project folder
 
