@@ -17,7 +17,6 @@ and the the website should work
 you just have to hit CTRL and click on the link in the terminal.
 
 
-
 If source venviv/bin/activate doesn't work or python manage.py runserver doesn't work
 Then for some reason you have to create the virtualenv yourself on your computer.
 Instructions for create virutalenv yourself: 
@@ -50,11 +49,11 @@ sh$- deactivate
 
 Features -
 1. Products
+
    The products button will take you to a list of products where you
    can click the filter button and you can filter the products by 
    price and by name.
 
-   You can click the purchase button but you can't actually make a purchase - didn't get to finish this one.
    
    You can also add a purchase from the admin part of the site but the reason I wanted
    to add a user based purchase feature is because when you create a user 
@@ -62,6 +61,7 @@ Features -
    and login you will be shown a new button which says User Data.
    
 2. User Data
+  
    If you create and login as a new user you will have no User Data so this will be blank.
    But notice the cool feature where the User Data button shows only when you've been verified 
  
@@ -69,12 +69,6 @@ Features -
    If you want to create a user and and create the purchase history through the admin part of the site
    Go about creating a user through the sign up part of the website.
    Log in to see that it works.
-
-
-   Then type /admin/ on the end of the url in the browser where the project is running
-   And you can use my admin account
-   The username is: brian
-   The password is: betadoo1
 
    To create purchase history for the user you need to create a purchase_history with whatever product you want 
    and the user which you created and know the password for.
@@ -105,20 +99,9 @@ Features -
    and after resetting your password you can log in from the new tab.
   
 
-   Note about project:
-      I know this is not all that impressive and I only have a few real queries which may not seem that complex
-      but the way django abstracts you from the database through the models/views/template files makes it difficult 
-      to write complex queries or to communicate with the RDS explicitly.
-
-      The Filter button in Products uses subqueries with one being queried after the other (if the user uses both the filter by       price field and the filter by name field)
-      Getting the current user and the current users purchase history from over 3000 tuples required subqueries and a join.
 
 
-      Anyway thank you so much for looking at this and taking the time to try to get my project working when
-      we both know you didn't have to and really in the books this should just be a 0.
 
-      I was pretty depressed after I couldn't finish it knowing I'd get a 0 and no one would even look at 
-      what I'd done cause I worked pretty hard on it.
 
 
      Thanks,
