@@ -1,4 +1,8 @@
-# reqsaddedwebproj
+# DjangoDBProject
+
+
+Instructions to Run Project.
+_________________________________________________________________________________
 This project needs to be run in linux.
 
 To clone the project type
@@ -8,31 +12,24 @@ git clone https://github.com/BMcKiernan/reqsaddedwebproj.git
 
 
 After cloning the repo 
-change directory to webprojectfolder within the reqsaddedwebproj project folder
+change directory to webprojectfolder within the DjangoDBProject project folder
 
 Type: source venviv/bin/activate
 if you see (venviv) sh4-$ ./PWD/
-then you can just cd to webproject and type: python manage.py runserver 
-and the the website should work
-you just have to hit CTRL and click on the link in the terminal.
+then you can just cd to webproject and type: "python manage.py runserver" and the the website should work
+you just have to hit CTRL and click on the link that appears in the terminal.
 
 
 If source venviv/bin/activate doesn't work or python manage.py runserver doesn't work
-Then for some reason you have to create the virtualenv yourself on your computer.
-Instructions for create virutalenv yourself: 
+Then you have to create the virtualenv yourself on your computer.
+Instructions to create virutalenv yourself: 
 
-rm -rf venviv
-To create the virtualenv -
-virtualenv venviv -p python3
+First remove the exisiting venviv dir with "rm -rf venviv"
+To create the virtualenv type "virtualenv venviv -p python3"
 
-To activate the virtualenv - 
-sh$- source venviv/bin/activate
+To activate the virtualenv type "source venviv/bin/activate"
 
-
-To add necessary requirments -
-and then do pip install requirment==#.#.#
-for each requirment in requirments.txt with the corresponding version
-(Ignore the one that says python)
+To add necessary requirments -type "pip3 install -r requirments.txt"
 
 To run the project locally -
 FROM PWD as ./webprojectfolder
@@ -40,7 +37,6 @@ sh$- cd webproject
 sh$- python manage.py runserver
 
 Then hold CTRL and click the link that is generated in the terminal
-
 
 For after you've seen the project and want to exit the virutalenv -
 sh$- deactivate
