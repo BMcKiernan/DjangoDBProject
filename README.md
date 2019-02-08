@@ -62,23 +62,10 @@ Features -
    But notice the cool feature where the User Data button shows only when you've been verified 
  
 
-   If you want to create a user and and create the purchase history through the admin part of the site, 
-   Go about creating a user through the sign up part of the website.
-   Log in to see that it works.
-
-   To create purchase history for the user you need to create a purchase_history with whatever product you want 
-   and the user which you created and know the password for.
-   After you create a purchase_history you then need to create a sale, click whatever branch you would like 
-   and find the purchase_history pk at the bottom of the list of purchase_history pks in sales. Its the sales foreign key.
-  
-   The purchase button in the Products section of the front of the website was supposed to automatically get the current user
-   the current date and the product and branch they "purchased" it from and generate the sales and purchase_history together at once.
-
-
-   Once you've created some sales and purchase_histories with your user on the top right of the admin page click view site.
-  
-   You can click User Data and see my information or you can log out of my user account, 
-   log into the one you created and see the newly avaible data under the User Data button.
+   If you want to create a user and and create purchase history through the site, 
+   Login as a new user and then after going to the Products sections of the website make some purchases. 
+ 
+   You can then click Purchase History and you will see all the products the current user has purchased as well as the "branch" where the products were purchased.
 
 
  3. Log-in Features
