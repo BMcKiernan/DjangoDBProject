@@ -1,15 +1,12 @@
 # DjangoDBProject
 
+***
+This website nolonger exists because I exceeded my free tier limit for the Amazon EC2 Elastic Compute instance and the AWS RDS instance I was using for the MySQL database.
+***
 
 Instructions to Run Project.
 _________________________________________________________________________________
 This project needs to be run in linux.
-
-To clone the project type
-
-git clone https://github.com/BMcKiernan/reqsaddedwebproj.git
-
-
 
 After cloning the repo 
 change directory to webprojectfolder within the DjangoDBProject project folder
@@ -38,8 +35,7 @@ sh$- python manage.py runserver
 
 Then hold CTRL and click the link that is generated in the terminal
 
-For after you've seen the project and want to exit the virutalenv -
-sh$- deactivate
+For after you've seen the project and want to exit the virutalenv just type "deactivate" in the terminal.
 
 
 
@@ -80,12 +76,4 @@ Features -
 
    This will redirect you to the reset password screen and you should just exit out of the tab you just left
    and after resetting your password you can log in from the new tab.
-  
 
-
-
-
-
-
-     Thanks,
-     Brian 
