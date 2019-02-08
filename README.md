@@ -62,7 +62,7 @@ Features -
    But notice the cool feature where the User Data button shows only when you've been verified 
  
 
-   If you want to create a user and and create the purchase history through the admin part of the site
+   If you want to create a user and and create the purchase history through the admin part of the site, 
    Go about creating a user through the sign up part of the website.
    Log in to see that it works.
 
